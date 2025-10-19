@@ -1,0 +1,213 @@
+{
+    "info" : [
+        {
+            "id": 1,
+            "nombre": "Por qué comprar",
+            "datos": [
+                {
+                    "id": 1,
+                    "nombre": "Cómo comprar",
+                    "url": "https://www.pccomponentes.com/soporte/como-comprar-en-pccomponentes"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Formas de pago",
+                    "url": "https://help.pccomponentes.com/hc/es-es/articles/19503812615197--Cómo-puedo-pagar-en-PcComponentes"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Gastos de envío",
+                    "url": "https://help.pccomponentes.com/hc/es-es/articles/19503927607709-Gastos-de-envío"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Cupones descuento",
+                    "url": "https://www.pccomponentes.com/cupones-descuento-y-codigos-promocionales"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Preguntas frecuentes",
+                    "url": "https://help.pccomponentes.com/hc/es-es"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Opiniones de clientes",
+                    "url": "https://www.pccomponentes.com/opiniones"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Tarjetas regalo",
+                    "url": "https://www.pccomponentes.com/tarjetas-regalo"
+                },
+                {
+                    "id": 8,
+                    "nombre": "Servicios para empresas",
+                    "url": "https://www.pccomponentes.com/servicios-para-empresas-y-autonomos"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Compras para empresas",
+                    "url": "https://www.pccomponentes.com/business"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Quiénes somos",
+            "datos": [
+                {
+                    "id": 1,
+                    "nombre": "Quiénes somos",
+                    "url": "https://www.pccomponentes.com/quienes-somos"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Compromisos",
+                    "url": "https://www.pccomponentes.com/compromisos"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Nuestras tiendas",
+                    "url": "https://www.pccomponentes.com/tiendas"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Nuestras Marcas",
+                    "url": "https://www.pccomponentes.com/nuestras-marcas"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Condiciones de compra",
+                    "url": "https://www.pccomponentes.com/condiciones-de-compra"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Afiliados",
+                    "url": "https://www.pccomponentes.com/afiliados"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Aviso legal",
+                    "url": "https://www.pccomponentes.com/aviso-legal"
+                },
+                {
+                    "id": 8,
+                    "nombre": "Privacidad",
+                    "url": "https://www.pccomponentes.com/privacidad"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Condiciones Generales Marketplace",
+                    "url": "https://www.pccomponentes.com/condiciones-generales-de-marketplace"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Contactar",
+            "datos": [
+                {
+                    "id": 1,
+                    "nombre": "Contacto y Ayuda",
+                    "url": "https://help.pccomponentes.com/hc/es-es"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Devoluciones y Garantías",
+                    "url": "https://help.pccomponentes.com/hc/es-es/categories/19806195784221-Garant%C3%ADas-y-devoluciones"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Wiki PcComponentes",
+                    "url": "https://www.pccomponentes.com/wiki"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Opina y Gana",
+                    "url": "https://www.pccomponentes.com/opina-y-gana"
+                },
+                {
+                    "id": 5,
+                    "nombre": "Publicidad",
+                    "url": "https://pcads.pccomponentes.com/"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Trabaja con nosotros",
+                    "url": "https://jobs.pccomponentes.com"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Hazte distribuidor",
+                    "url": "https://associate.pccom.ai"
+                },
+                {
+                    "id": 8,
+                    "nombre": "Canal ético",
+                    "url": "pccomponentes.canaletico.app"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Política de cookies",
+                    "url": "https://www.pccomponentes.com/cookies"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Otros",
+            "datos": [
+                {
+                    "id": 1,
+                    "nombre": "Replay",
+                    "url": "https://www.pccomponentes.com/replay"
+                },
+                {
+                    "id": 2,
+                    "nombre": "Black Friday",
+                    "url": "https://www.pccomponentes.com/black-friday"
+                },
+                {
+                    "id": 3,
+                    "nombre": "Cyber Monday",
+                    "url": "https://www.pccomponentes.com/cyber-monday"
+                },
+                {
+                    "id": 4,
+                    "nombre": "Gana dinero con PcComponentes",
+                    "url": "https://www.pccomponentes.com/pccommunity?utm_source=footer"
+                },
+                {
+                    "id": 5,
+                    "nombre": "PcDays",
+                    "url": "https://www.pccomponentes.com/pcdays"
+                },
+                {
+                    "id": 6,
+                    "nombre": "Marketplace",
+                    "url": "https://www.pccomponentes.com/marketplace"
+                },
+                {
+                    "id": 7,
+                    "nombre": "Servicio logístico Fulfillment",
+                    "url": "https://fulfillment.pccomponentes.com"
+                },
+                {
+                    "id": 8,
+                    "nombre": "Servicio de reparaciones",
+                    "url": "https://www.pccomponentes.com/servicio-de-reparaciones"
+                },
+                {
+                    "id": 9,
+                    "nombre": "Concursos",
+                    "url": "https://www.pccomponentes.com/sorteos"
+                },
+                {
+                    "id": 10,
+                    "nombre": "Cita asistencia técnica",
+                    "url": "https://www.pccomponentes.com/servicio-tecnico-remoto-asre"
+                }
+            ]
+        }
+    ]
+}

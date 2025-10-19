@@ -1,0 +1,145 @@
+{
+    "carrusel": true,
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Samsung Galaxy Book4 15 Intel Core i5-1335U/16GB/512GB SSD/15.6\" + Microsoft 365 12+3 Meses Digital",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10853377/1184-samsung-galaxy-book4-15-np750xgj-kg2es-intel-core-i5-1335u-16gb-512gb-ssd-156-microsoft-365-12-3-meses-digital-cb7df31b-fbd6-436a-9994-e932a50f1e81.jpg",
+            "url": "https://www.pccomponentes.com/portatil-samsung-galaxy-book4-15-intel-core-i5-1335u-16gb-512gb-ssd-156-microsoft-365-12-3-meses-digital",
+            "descuento": 33,
+            "precioDescuento": "529",
+            "precioInicial": "799",
+            "puntuacion": "4,5/5",
+            "opiniones": 105,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 1,
+                "nombre": "Incluye regalo"
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "HP Victus Gaming 15-fa2005ns 15.6\" Intel Core 7 240H 16GB 1TB SSD RTX 5060 8GB Azul",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881993/1511-hp-victus-gaming-15-fa2005ns-156-intel-core-7-240h-16gb-1tb-ssd-rtx-5060-8gb-azul.jpg",
+            "url": "https://www.pccomponentes.com/portatil-hp-victus-gaming-15-fa2005ns-156-intel-core-7-240h-16gb-1tb-ssd-rtx-5060-8gb-azul",
+            "descuento": 25,
+            "precioDescuento": "1.049",
+            "precioInicial": "1.399",
+            "puntuacion": "4,5/5",
+            "opiniones": 461,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 3,
+            "nombre": "PcCom Work Intel Core i5-12400 / 16GB / 500GB SSD",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1078/10789627/1272-pccom-intel-core-i5-12400-16gb-500gb-ssd-comprar.jpg",
+            "url": "https://www.pccomponentes.com/pccom-work-intel-core-i5-12400-16gb-500gb-ssd",
+            "descuento": 15,
+            "precioDescuento": "379",
+            "precioInicial": "449",
+            "puntuacion": "4,5/5",
+            "opiniones": 936,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 4,
+            "nombre": "MSI Modern 15 F13MG-248XES Intel Core i5-1334U/16GB/512GB SSD/15.6\"",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10865268/1828-msi-modern-15-f13mg-248xes-intel-core-i5-1334u-16gb-512gb-ssd-156.jpg",
+            "url": "https://www.pccomponentes.com/portatil-msi-modern-15-f13mg-248xes-intel-core-i5-1334u-16gb-512gb-ssd-156",
+            "descuento": 17,
+            "precioDescuento": "549",
+            "precioInicial": "669",
+            "puntuacion": "4,6/5",
+            "opiniones": 202,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 1,
+                "nombre": "Incluye regalo"
+            }
+        },
+        {
+            "id": 5,
+            "nombre": "HP All-in-One 27-cr0069ns Intel Core i5-1335U/16GB/512GB SSD/27\"",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10869685/1108-hp-all-in-one-27-cr0069ns-intel-core-i5-1335u-16gb-512gb-ssd-27-especificaciones.jpg",
+            "url": "https://www.pccomponentes.com/hp-all-in-one-27-cr0069ns-intel-core-i5-1335u-16gb-512gb-ssd-27",
+            "descuento": 21,
+            "precioDescuento": "709",
+            "precioInicial": "899",
+            "puntuacion": "4,6/5",
+            "opiniones": 34,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 6,
+            "nombre": "MSI Cyborg 15 B2RWFKG-201XES Intel Core 7 240H 32GB DDR5 1TB SSD RTX 5060 15.6\" FHD RGB",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10893728/1703-msi-cyborg-15-b2rwfkg-201xes-intel-core-7-240h-32gb-ddr5-1tb-ssd-rtx-5060-156-fhd-rgb-caracteristicas.jpg",
+            "url": "https://www.pccomponentes.com/portatil-msi-cyborg-15-b2rwfkg-201xes-intel-core-7-240h-32gb-ddr5-1tb-ssd-rtx-5060-156-fhd-rgb",
+            "descuento": 7,
+            "precioDescuento": "1.299",
+            "precioInicial": "1.399",
+            "puntuacion": "4,6/5",
+            "opiniones": 1123,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 7,
+            "nombre": "PcCom Ready Intel Core i5-14400F / 32 GB / 1TB SSD / RTX 5060 Ti 8GB",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10923690/1199-pccom-ready-intel-core-i5-14400f-32-gb-1tb-ssd-rtx-5060-ti-8gb.jpg",
+            "url": "https://www.pccomponentes.com/ordenador-sobremesa-pccom-ready-intel-core-i5-14400f-32-gb-1tb-ssd-rtx-5060-ti-8gb",
+            "descuento": 21,
+            "precioDescuento": "939",
+            "precioInicial": "1.199",
+            "puntuacion": "4,8/5",
+            "opiniones": 15,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 8,
+            "nombre": "PcCom Lite Intel Core i5-12400F / 1TB SSD / 16GB / RTX 3050 Negro V2",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10880570/1742-pccom-lite-intel-core-i5-12400f-1tb-ssd-16gb-rtx-3050-negro-v2-comprar.jpg",
+            "url": "https://www.pccomponentes.com/ordenador-sobremesa-pccom-lite-intel-core-i5-12400f-1tb-ssd-16gb-rtx-3050-negro-v2",
+            "descuento": 28,
+            "precioDescuento": "629",
+            "precioInicial": "879",
+            "puntuacion": "4,6/5",
+            "opiniones": 712,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 9,
+            "nombre": "PcCom iCUE Intel Core i7-14700KF / 32GB / 2TB SSD / RTX 5080",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10872652/1908-pccom-icue-intel-core-i7-14700kf-32gb-2tb-ssd-rtx-5080-opiniones.jpg",
+            "url": "https://www.pccomponentes.com/ordenador-sobremesa-pccom-icue-intel-core-i7-14700kf-32gb-2tb-ssd-rtx-5080",
+            "descuento": 12,
+            "precioDescuento": "2.609",
+            "precioInicial": "2.969",
+            "puntuacion": "4,4/5",
+            "opiniones": 8,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 10,
+            "nombre": "HP Slim Desktop S01-pF2044ns Intel Core i3-12100/8GB/256GB SSD",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1073/10733329/1596-hp-slim-desktop-s01-pf2044ns-intel-core-i3-12100-8gb-256gb-ssd-especificaciones.jpg",
+            "url": "https://www.pccomponentes.com/hp-slim-desktop-s01-pf2044ns-intel-core-i3-12100-8gb-256gb-ssd",
+            "descuento": 28,
+            "precioDescuento": "329",
+            "precioInicial": "459",
+            "puntuacion": "4,5/5",
+            "opiniones": 73,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 11,
+            "nombre": "PcCom Imperial Intel Core i5-14600KF / 32GB / 2TB SSD / RTX 5070",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871688/1491-pccom-imperial-intel-core-i5-14600kf-32gb-2tb-ssd-rtx-5070-comprar.jpg",
+            "url": "https://www.pccomponentes.com/ordenador-sobremesa-pccom-imperial-intel-core-i5-14600kf-32gb-2tb-ssd-rtx-5070",
+            "descuento": 33,
+            "precioDescuento": "1.589",
+            "precioInicial": "2.400",
+            "puntuacion": "4,4/5",
+            "opiniones": 14,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        }
+    ]
+}

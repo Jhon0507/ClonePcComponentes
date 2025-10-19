@@ -1,0 +1,2281 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nombre": "Componentes",
+            "link": "https://www.pccomponentes.com/componentes",
+            "subcategoria": [
+                {
+                    "nombre": "Configurador de PCs",
+                    "link": "https://www.pccomponentes.com/configurador/"
+                },
+                {
+                    "nombre": "Placas base",
+                    "link": "https://www.pccomponentes.com/placas-base"
+                },
+                {
+                    "nombre": "Tarjetas gráficas",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Tarjetas gráficas",
+                            "link": "https://www.pccomponentes.com/tarjetas-graficas"
+                        },{
+                            "nombre": "NVIDIA",
+                            "link": "https://www.pccomponentes.com/tarjetas-graficas/grafica-nvidia"
+                        },{
+                            "nombre": "AMD",
+                            "link": "https://www.pccomponentes.com/tarjetas-graficas/grafica-amd"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Procesadores",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en procesadores",
+                            "link": "https://www.pccomponentes.com/procesadores"
+                        },{
+                            "nombre": "AMD",
+                            "link": "https://www.pccomponentes.com/procesadores/amd"
+                        },{
+                            "nombre": "Intel",
+                            "link": "https://www.pccomponentes.com/procesadores/intel"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Discos duros",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Discos duros",
+                            "link": "https://www.pccomponentes.com/discos-duros"
+                        },{
+                            "nombre": "Discos duros SSD",
+                            "link": "https://www.pccomponentes.com/discos-duros-ssd"
+                        },{
+                            "nombre": "Discos duros internos",
+                            "link": "https://www.pccomponentes.com/discos-duros/hdd-mecanico/internos"
+                        },{
+                            "nombre": "Discos duros externos",
+                            "link": "https://www.pccomponentes.com/discos-duros-externos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Refrigeración",
+                    "opciones": [
+                        {
+                            "nombre": "Kits de refrigeración líquida",
+                            "link": "https://www.pccomponentes.com/refrigeracion-liquida/kit-refrigeracion-liquida"
+                        },{
+                            "nombre": "Coolers CPU",
+                            "link": "https://www.pccomponentes.com/ventiladores-cpu"
+                        },{
+                            "nombre": "Ventiladores suplementarios",
+                            "link": "https://www.pccomponentes.com/ventiladores-suplementarios"
+                        },{
+                            "nombre": "Pasta térmica",
+                            "link": "https://www.pccomponentes.com/pasta-termica"
+                        }
+                    ]
+                }, {
+                    "nombre": "RAM",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en RAM",
+                            "link": "https://www.pccomponentes.com/memorias-ram"
+                        }, {
+                            "nombre": "Memorias RAM DDR4",
+                            "link": "https://www.pccomponentes.com/memorias-ram/ddr4"
+                        }, {
+                            "nombre": "Memorias RAM DDR5",
+                            "link": "https://www.pccomponentes.com/memorias-ram/ddr5"
+                        }
+                    ]
+                }, {
+                    "nombre": "Fuentes de alimentación",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Fuentes de alimentación",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion"
+                        },{
+                            "nombre": "Plus gold",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion/80-plus-gold"
+                        },{
+                            "nombre": "Plus bronze",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion/80-plus-bronze"
+                        }, {
+                            "nombre": "Plus platinum",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion/80-plus-platinum"
+                        }, {
+                            "nombre": "Plus titanium",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion/80plus-titanium"
+                        }, {
+                            "nombre": "Plus silver",
+                            "link": "https://www.pccomponentes.com/fuentes-alimentacion/80-plus-silver"
+                        }
+                    ]
+                }, {
+                    "nombre": "Otros componentes",
+                    "opciones": [
+                        {
+                            "nombre": "Torres",
+                            "link": "https://www.pccomponentes.com/cajas-pc"
+                        }, {
+                            "nombre": "Barebones",
+                            "link": "https://www.pccomponentes.com/barebones"
+                        },{
+                            "nombre": "Tarjetas de sonido",
+                            "link": "https://www.pccomponentes.com/tarjetas-sonido"
+                        },{
+                            "nombre": "Capturadoras", 
+                            "link": "https://www.pccomponentes.com/capturadoras"
+                        },{
+                            "nombre": "Grabadoras",
+                            "link": "https://www.pccomponentes.com/grabadoras-dvd-blu-ray"
+                        }
+                    ]
+                }, {
+                    "nombre": "Top marcas",
+                    "opciones": [
+                        {
+                            "nombre": "Corsair",
+                            "link": "https://www.pccomponentes.com/corsair-brand-store"
+                        },{
+                            "nombre": "ASUS",
+                            "link": "https://www.pccomponentes.com/asus?categories=cajas-pc,discos-duros,fuentes-alimentacion,placas-base,refrigeracion-liquida,tarjetas-graficas"
+                        },{
+                            "nombre": "MSI",
+                            "link": "https://www.pccomponentes.com/msi?categories=cajas-pc,discos-duros,fuentes-alimentacion,placas-base,refrigeracion-liquida,tarjetas-graficas"
+                        },{
+                            "nombre": "NVIDIA",
+                            "link": "https://www.pccomponentes.com/nvidia-brand-store"
+                        },{
+                            "nombre": "Gigabyte",
+                            "link": "https://www.pccomponentes.com/gigabyte?categories=discos-duros,fuentes-alimentacion,memorias-ram,placas-base,refrigeracion-liquida,tarjetas-graficas"
+                        },{
+                            "nombre": "Samsung",
+                            "link": "https://www.pccomponentes.com/samsung?categories=discos-duros"
+                        },{
+                            "nombre": "Western Digital",
+                            "link": "https://www.pccomponentes.com/western-digital"
+                        },{
+                            "nombre": "Intel",
+                            "link": "https://www.pccomponentes.com/intel?categories=procesadores,tarjetas-graficas"
+                        },{
+                            "nombre": "AMD",
+                            "link": "https://www.pccomponentes.com/amd"
+                        }
+                    ]
+                }, {
+                    "nombre": "Robótica",
+                    "opciones": [
+                        {
+                            "nombre": "Robótica",
+                            "link": "https://www.pccomponentes.com/robotica"
+                        },{
+                            "nombre": "Arduino",
+                            "link": "https://www.pccomponentes.com/arduino-componentes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Ordenadores",
+            "link": "https://www.pccomponentes.com/ordenadores",
+            "subcategoria": [
+                {
+                    "nombre": "Configurador de PCs",
+                    "link": "https://www.pccomponentes.com/configurador/"
+                },{
+                    "nombre": "Portátiles",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Portátiles",
+                            "link": "https://www.pccomponentes.com/portatiles"
+                        },{
+                            "nombre": "Portátiles para uso profesional",
+                            "link": "https://www.pccomponentes.com/portatiles/dell/hp/hp-elitebook/hp-probook/hp-zbook/lenovo/lenovo-thinkbook/lenovo-thinkpad/msi/msi-creator/msi-modern/msi-prestige-pc/msi-summit?price_from=369&price_to=1399"
+                        },{
+                            "nombre": "Portátiles gaming",
+                            "link": "https://www.pccomponentes.com/portatiles-gaming"
+                        },{
+                            "nombre": "Portátiles gaming avanzado",
+                            "link": "https://www.pccomponentes.com/portatiles/amd-ryzen-9/geforce-rtx-4060/geforce-rtx-4070/geforce-rtx-4080/geforce-rtx-4090/intel-core-ultra-7/intel-core-ultra-9/intel-i9/nuevo/pc-para-gaming/rtx-5070-ti/rtx-5080/rtx-5090/teclados-es"
+                        },{
+                            "nombre": "Portátiles para estudiar",
+                            "link": "https://www.pccomponentes.com/portatiles/15-6-pulgadas/16gb-ram/8-gb-ram/amd-ryzen-5/intel-i5/para-estudiar-o-trabajar/teclados-es?price_from=0&price_to=700"
+                        },{
+                            "nombre": "Portátiles básicos hasta 500€",
+                            "link": "https://www.pccomponentes.com/portatiles/16gb-ram/8-gb-ram/amd-athlon/amd-ryzen-3/intel-celeron/intel-i3/nuevo/teclados-es?price_from=0&price_to=500"
+                        },{
+                            "nombre": "Portátiles Ultrabooks",
+                            "link": "https://www.pccomponentes.com/ultrabooks"
+                        },{
+                            "nombre": "Portátiles para diseño gráfico y edición",
+                            "link": "https://www.pccomponentes.com/portatiles/edicion-de-video-y-diseno"
+                        },{
+                            "nombre": "MacBook",
+                            "link": "https://www.pccomponentes.com/macbook"
+                        },{
+                            "nombre": "Portátiles reacondicionados gaming",
+                            "link": "https://www.pccomponentes.com/portatiles/pc-para-gaming/reacondicionado"
+                        },{
+                            "nombre": "Portátiles reacondicionados",
+                            "link": "https://www.pccomponentes.com/portatiles/reacondicionado"
+                        },{
+                            "nombre": "Configura tu mac",
+                            "link": "https://www.pccomponentes.com/configura-tu-mac?openAssistant"
+                        }
+                    ]
+                }, {
+                    "nombre": "Portátiles de marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en portátiles de marca",
+                            "link": "https://www.pccomponentes.com/portatiles"
+                        },{
+                            "nombre": "MacBook",
+                            "link": "https://www.pccomponentes.com/macbook"
+                        },{
+                            "nombre": "Portátil HP",
+                            "link": "https://www.pccomponentes.com/portatil-hp"
+                        },{
+                            "nombre": "Portátil Lenovo",
+                            "link": "https://www.pccomponentes.com/portatiles-lenovo"
+                        },{
+                            "nombre": "Portátil ASUS",
+                            "link": "https://www.pccomponentes.com/portatil-asus"
+                        },{
+                            "nombre": "Portátil MSI",
+                            "link": "https://www.pccomponentes.com/portatiles-msi"
+                        },{
+                            "nombre": "Portátil Acer",
+                            "link": "https://www.pccomponentes.com/portatil-acer"
+                        },{
+                            "nombre": "Portátil PcCom",
+                            "link": "https://www.pccomponentes.com/portatiles/pccom-pccom"
+                        },{
+                            "nombre": "Portátil Alurin (Nuestra marca de portátiles)",
+                            "link": "https://www.pccomponentes.com/portatiles/alurin"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios para portátiles",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Accesorios para portátiles",
+                            "link": "https://www.pccomponentes.com/accesorios-portatiles"
+                        },{
+                            "nombre": "Fundas y maletines",
+                            "link": "https://www.pccomponentes.com/accesorios-portatiles/fundas"
+                        },{
+                            "nombre": "Dockings",
+                            "link": "https://www.pccomponentes.com/accesorios-portatiles/docking-station"
+                        },{
+                            "nombre": "Bases refrigeradoras",
+                            "link": "https://www.pccomponentes.com/accesorios-portatiles-base-refrigeradora"
+                        },{
+                            "nombre": "Repuestos",
+                            "link": "https://www.pccomponentes.com/repuestos-portatiles"
+                        },{
+                            "nombre": "Mochilas",
+                            "link": "https://www.pccomponentes.com/accesorios-portatiles/tipo-mochila"
+                        },{
+                            "nombre": "Cargadores",
+                            "link": "https://www.pccomponentes.com/cargadores-de-baterias"
+                        }
+                    ]
+                }, {
+                    "nombre": "PC sobremesa",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en PC sobremesa",
+                            "link": "https://www.pccomponentes.com/sobremesa"
+                        },{
+                            "nombre": "PC gaming",
+                            "link": "https://www.pccomponentes.com/sobremesa/sobremesa-gaming"
+                        },{
+                            "nombre": "PC para estudiar o trabajar",
+                            "link": "https://www.pccomponentes.com/sobremesa/basico"
+                        },{
+                            "nombre": "Mini PC",
+                            "link": "https://www.pccomponentes.com/mini-pcs"
+                        },{
+                            "nombre": "PC todo en uno - All in one",
+                            "link": "https://www.pccomponentes.com/all-in-one"
+                        },{
+                            "nombre": "PC con Windows",
+                            "link": "https://www.pccomponentes.com/sobremesa/windows"
+                        },{
+                            "nombre": "Reacondicionados",
+                            "link": "https://www.pccomponentes.com/sobremesa/reacondicionado"
+                        },{
+                            "nombre": "PC sin sistema operativo",
+                            "link": "https://www.pccomponentes.com/sobremesa/sin-s-o"
+                        },{
+                            "nombre": "Barebores",
+                            "link": "https://www.pccomponentes.com/barebones"
+                        },{
+                            "nombre": "Servidores",
+                            "link": "https://www.pccomponentes.com/servidores"
+                        }
+                    ]
+                }, {
+                    "nombre": "PC sobremesa por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en PC sobremesa por marca",
+                            "link": "https://www.pccomponentes.com/sobremesa"
+                        },{
+                            "nombre": "PcCom",
+                            "link": "https://www.pccomponentes.com/sobremesa/pccom-pccom"
+                        },{
+                            "nombre": "MSI",
+                            "link": "https://www.pccomponentes.com/ordenadores-msi"
+                        },{
+                            "nombre": "HP",
+                            "link": "https://www.pccomponentes.com/sobremesa/hp"
+                        },{
+                            "nombre": "ASUS",
+                            "link": "https://www.pccomponentes.com/sobremesa/asus"
+                        },{
+                            "nombre": "Lenovo",
+                            "link": "https://www.pccomponentes.com/ordenadores-lenovo"
+                        },{
+                            "nombre": "Dell",
+                            "link": "https://www.pccomponentes.com/sobremesa/dell"
+                        },{
+                            "nombre": "Acer",
+                            "link": "https://www.pccomponentes.com/sobremesa/acer"
+                        }
+                    ]
+                }, {
+                    "nombre": "Software",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Software",
+                            "link": "https://www.pccomponentes.com/software"
+                        },{
+                            "nombre": "Espacio Microsoft",
+                            "link": "https://www.pccomponentes.com/espacio-microsoft"
+                        },{
+                            "nombre": "Sistemas operativos",
+                            "link": "https://www.pccomponentes.com/sistemas-operativos"
+                        },{
+                            "nombre": "Software aplicaciones",
+                            "link": "https://www.pccomponentes.com/software-aplicaciones"
+                        }
+                    ]
+                }, {
+                    "nombre": "Espacio Apple",
+                    "opciones": [
+                        {
+                            "nombre": "Macbook Air M4",
+                            "link": "https://www.pccomponentes.com/portatiles/apple/apple-m4/apple-macbook-air"
+                        },{
+                            "nombre": "Espacio Mac",
+                            "link": "https://www.pccomponentes.com/espacio-mac"
+                        },{
+                            "nombre": "Configura tu Mac",
+                            "link": "https://www.pccomponentes.com/configura-tu-mac?openAssistant"
+                        }
+                    ]
+                }, {
+                    "nombre": "Zona marcas",
+                    "opciones": [
+                        {
+                            "nombre": "PcCom",
+                            "link": "https://www.pccomponentes.com/pccom"
+                        },{
+                            "nombre": "NVIDIA",
+                            "link": "https://www.pccomponentes.com/nvidia-brand-store"
+                        },{
+                            "nombre": "PC Corsair iCUE Certified",
+                            "link": "https://www.pccomponentes.com/configuracion-bajo-tu-control-con-corsair-icue"
+                        },{
+                            "nombre": "Intel",
+                            "link": "https://www.pccomponentes.com/espacio-intel"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "id": 3,
+            "nombre": "Periféricos",
+            "link": "https://www.pccomponentes.com/perifericos",
+            "subcategoria": [
+                {
+                    "nombre": "Monitores",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Monitores",
+                            "link": "https://www.pccomponentes.com/monitores-pc"
+                        },{
+                            "nombre": "Monitores gaming",
+                            "link": "https://www.pccomponentes.com/monitores-pc/para-gaming"
+                        },{
+                            "nombre": "Monitor 4K",
+                            "link": "https://www.pccomponentes.com/monitores-pc/3840-x-2160-4k-uhd"
+                        },{
+                            "nombre": "Monitores ultrawide",
+                            "link": "https://www.pccomponentes.com/monitores-pc/ultrawide"
+                        },{
+                            "nombre": "Monitor 144Hz",
+                            "link": "https://www.pccomponentes.com/monitores-pc/144-hz"
+                        },{
+                            "nombre": "Monitor curvo",
+                            "link": "https://www.pccomponentes.com/monitores-pc/curvos"
+                        },{
+                            "nombre": "Soporte para monitor",
+                            "link": "https://www.pccomponentes.com/accesorios-de-soportes/soporte-monitor"
+                        },{
+                            "nombre": "Monitor portátil",
+                            "link": "https://www.pccomponentes.com/monitores-pc/monitores-portatiles"
+                        }
+                    ]
+                }, {
+                    "nombre": "Teclados",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Teclados",
+                            "link": "https://www.pccomponentes.com/teclados"
+                        },{
+                            "nombre": "Teclados mecánicos",
+                            "link": "https://www.pccomponentes.com/teclados/mecanico"
+                        },{
+                            "nombre": "Teclados gaming",
+                            "link": "https://www.pccomponentes.com/teclados/teclado-gaming"
+                        },{
+                            "nombre": "Combos teclado y ratón",
+                            "link": "https://www.pccomponentes.com/teclados/teclado-y-raton"
+                        },{
+                            "nombre": "Teclados inalámbricos",
+                            "link": "https://www.pccomponentes.com/teclados/inalambricos"
+                        },{
+                            "nombre": "Teclados oficina",
+                            "link": "https://www.pccomponentes.com/teclados/ofimatica-oficina"
+                        }
+                    ]
+                }, {
+                    "nombre": "Ratones",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Ratones",
+                            "link": "https://www.pccomponentes.com/ratones"
+                        },{
+                            "nombre": "Ratones inalámbricos",
+                            "link": "https://www.pccomponentes.com/ratones/inalambricos"
+                        },{
+                            "nombre": "Ratones gaming",
+                            "link": "https://www.pccomponentes.com/ratones/raton-gaming"
+                        },{
+                            "nombre": "Alfombrillas",
+                            "link": "https://www.pccomponentes.com/alfombrillas"
+                        },{
+                            "nombre": "Ratones verticales",
+                            "link": "https://www.pccomponentes.com/ratones/vertical-ergonomico"
+                        }
+                    ]
+                }, {
+                    "nombre": "Auriculares",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Auriculares",
+                            "link": "https://www.pccomponentes.com/auriculares"
+                        },{
+                            "nombre": "Auriculares gaming",
+                            "link": "https://www.pccomponentes.com/auriculares/auricular-gaming"
+                        },{
+                            "nombre": "Auriculares inalámbricos",
+                            "link": "https://www.pccomponentes.com/auriculares/inalambricos"
+                        },{
+                            "nombre": "Auriculares con cancelación de ruido",
+                            "link": "https://www.pccomponentes.com/auriculares/cancelacion-de-ruido"
+                        },{
+                            "nombre": "Auriculares con cable",
+                            "link": "https://www.pccomponentes.com/auriculares/cable"
+                        },{
+                            "nombre": "Auriculares para oficina",
+                            "link": "https://www.pccomponentes.com/auriculares/basico-pc/diadema"
+                        },{
+                            "nombre": "Auriculares con micrófono",
+                            "link": "https://www.pccomponentes.com/auriculares-con-microfono"
+                        },{
+                            "nombre": "Auriculares con botón",
+                            "link": "https://www.pccomponentes.com/auriculares/boton"
+                        },{
+                            "nombre": "Auriculares con diadema",
+                            "link": "https://www.pccomponentes.com/auriculares/diadema"
+                        },{
+                            "nombre": "Auriculares deportivos",
+                            "link": "https://www.pccomponentes.com/auriculares-deportivos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Sillas",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Sillas",
+                            "link": "https://www.pccomponentes.com/sillas"
+                        },{
+                            "nombre": "Sillas gaming",
+                            "link": "https://www.pccomponentes.com/sillas/tipo-gaming"
+                        },{
+                            "nombre": "Sillas de escritorio",
+                            "link": "https://www.pccomponentes.com/sillas/oficina"
+                        }
+                    ]
+                }, {
+                    "nombre": "Almacenamiento",
+                    "opciones": [
+                        {
+                            "nombre": "Discos duros externos",
+                            "link": "https://www.pccomponentes.com/discos-duros-externos"
+                        },{
+                            "nombre": "Memorias USB",
+                            "link": "https://www.pccomponentes.com/memorias-usb-pendrive"
+                        },{
+                            "nombre": "Discos Duros de Red/NAS",
+                            "link": "https://www.pccomponentes.com/discos-duros-carcasas-de-red-nas"
+                        },{
+                            "nombre": "Tarjetas de Memoria",
+                            "link": "https://www.pccomponentes.com/tarjetas-de-memoria"
+                        }
+                    ]
+                }, {
+                    "nombre": "Otros periféricos",
+                    "opciones": [
+                        {
+                            "nombre": "Altavoces",
+                            "link": "https://www.pccomponentes.com/altavoces"
+                        },{
+                            "nombre": "Micrófonos",
+                            "link": "https://www.pccomponentes.com/microfonos"
+                        },{
+                            "nombre": "Webcams",
+                            "link": "https://www.pccomponentes.com/webcam"
+                        },{
+                            "nombre": "Accesorios gaming",
+                            "link": "https://www.pccomponentes.com/accesorios-gaming"
+                        },{
+                            "nombre": "Mesas gaming",
+                            "link": "https://www.pccomponentes.com/mesas-gaming"
+                        },{
+                            "nombre": "Mandos PC",
+                            "link": "https://www.pccomponentes.com/mandos-pc/juego-pc"
+                        },{
+                            "nombre": "SAIS",
+                            "link": "https://www.pccomponentes.com/sais"
+                        },{
+                            "nombre": "Volantes",
+                            "link": "https://www.pccomponentes.com/volantes"
+                        },{
+                            "nombre": "Tabletas gráficas",
+                            "link": "https://www.pccomponentes.com/tabletas-digitales"
+                        }
+                    ]
+                }, {
+                    "nombre": "Impresoras",
+                    "opciones": [
+                        {
+                            "nombre": "Impresoras multifunción",
+                            "link": "https://www.pccomponentes.com/multifunciones"
+                        },{
+                            "nombre": "Impresoras láser",
+                            "link": "https://www.pccomponentes.com/impresoras-laser"
+                        },{
+                            "nombre": "Impresoras inyección de tinta",
+                            "link": "https://www.pccomponentes.com/impresoras-inyeccion-tinta"
+                        },{
+                            "nombre": "Impresoras 3D",
+                            "link": "https://www.pccomponentes.com/impresoras-3d"
+                        },{
+                            "nombre": "Escáners",
+                            "link": "https://www.pccomponentes.com/escaners"
+                        }
+                    ]
+                }, {
+                    "nombre": "Consumibles",
+                    "opciones": [
+                        {
+                            "nombre": "Cartuchos originales",
+                            "link": "https://www.pccomponentes.com/tintas/cartuchos/originales"
+                        },{
+                            "nombre": "Cartuchos compatibles",
+                            "link": "https://www.pccomponentes.com/tintas/cartuchos/compatibles"
+                        },{
+                            "nombre": "Tóners originales",
+                            "link": "https://www.pccomponentes.com/tintas/originales/toners"
+                        },{
+                            "nombre": "Tóners compatibles",
+                            "link": "https://www.pccomponentes.com/tintas/compatibles/toners"
+                        },{
+                            "nombre": "CD/DVD",
+                            "link": "https://www.pccomponentes.com/cd-dvd"
+                        },{
+                            "nombre": "Papel para impresoras",
+                            "link": "https://www.pccomponentes.com/papel-para-impresora"
+                        }
+                    ]
+                }, {
+                    "nombre": "Redes",
+                    "opciones": [
+                        {
+                            "nombre": "Routers",
+                            "link": "https://www.pccomponentes.com/routers"
+                        },{
+                            "nombre": "Switchs",
+                            "link": "https://www.pccomponentes.com/hubs-switchs"
+                        },{
+                            "nombre": "Tarjetas de red",
+                            "link": "https://www.pccomponentes.com/tarjetas-de-red"
+                        },{
+                            "nombre": "WiFi mesh",
+                            "link": "https://www.pccomponentes.com/wifi-mesh"
+                        },{
+                            "nombre": "Repetidores WiFi",
+                            "link": "https://www.pccomponentes.com/puntos-de-acceso"
+                        },{
+                            "nombre": "Adaptadores USB WiFi",
+                            "link": "https://www.pccomponentes.com/adaptadores-usb-red"
+                        },{
+                            "nombre": "Puntos de acceso",
+                            "link": "https://www.pccomponentes.com/puntos-de-acceso"
+                        },{
+                            "nombre": "Docks, hubs y adaptadores",
+                            "link": "https://www.pccomponentes.com/conectividad"
+                        },{
+                            "nombre": "Adaptadores PLC - Powerline",
+                            "link": "https://www.pccomponentes.com/adaptadores-powerline-plc"
+                        },{
+                            "nombre": "Racks, armarios y accesorios", 
+                            "link": "https://www.pccomponentes.com/armarios-rack"
+                        },{
+                            "nombre": "Antenas",
+                            "link": "https://www.pccomponentes.com/antenas"
+                        },{
+                            "nombre": "Patch panel",
+                            "link": "https://www.pccomponentes.com/paneles-de-parcheo"
+                        },{
+                            "nombre": "KVM",
+                            "link": "https://www.pccomponentes.com/kvm-switchs-y-cables"
+                        },{
+                            "nombre": "Servidores de impresión",
+                            "link": "https://www.pccomponentes.com/servidores-impresion"
+                        }
+                    ]
+                }, {
+                    "nombre": "Cables",
+                    "opciones": [
+                        {
+                            "nombre": "Cables de red Ethernet",
+                            "link": "https://www.pccomponentes.com/cables-de-red"
+                        },{
+                            "nombre": "DisplayPort",
+                            "link": "https://www.pccomponentes.com/cables-displayport"
+                        },{
+                            "nombre": "Cables USB",
+                            "link": "https://www.pccomponentes.com/cables-usb"
+                        },{
+                            "nombre": "Organizador de cables",
+                            "link": "https://www.pccomponentes.com/modding"
+                        },{
+                            "nombre": "HDMI",
+                            "link": "https://www.pccomponentes.com/cables-hdmi"
+                        },{
+                            "nombre": "Regletas",
+                            "link": "https://www.pccomponentes.com/regletas"
+                        },{
+                            "nombre": "Cables internos de PC",
+                            "link": "https://www.pccomponentes.com/cables-internos-de-pc"
+                        },{
+                            "nombre": "Cables de alimentación",
+                            "link": "https://www.pccomponentes.com/cables-de-alimentacion"
+                        },{
+                            "nombre": "Cables de audio y vídeo",
+                            "link": "https://www.pccomponentes.com/cables-audio-video"
+                        },{
+                            "nombre": "Fibra óptica",
+                            "link": "https://www.pccomponentes.com/cables-de-fibra-optica"
+                        },{
+                            "nombre": "Cables SATA",
+                            "link": "https://www.pccomponentes.com/cables-sata"
+                        }
+                    ]
+                }, {
+                    "nombre": "Business y oficina",
+                    "opciones": [
+                        {
+                            "nombre": "Material de oficina",
+                            "link": "https://www.pccomponentes.com/material-de-oficina"
+                        },{
+                            "nombre": "Gafas de Luz Azul",
+                            "link": "https://www.pccomponentes.com/gafas/luz-azul"
+                        },{
+                            "nombre": "TPV",
+                            "link": "https://www.pccomponentes.com/tpv"
+                        },{
+                            "nombre": "Sistemas de videoconferencia",
+                            "link": "https://www.pccomponentes.com/sistemas-videoconferencia"
+                        },{
+                            "nombre": "Destructoras de papel",
+                            "link": "https://www.pccomponentes.com/destructoras-papel"
+                        }
+                    ]
+                }, {
+                    "nombre": "Zonas marcas",
+                    "opciones": [
+                        {
+                            "nombre": "Logitech",
+                            "link": "https://www.pccomponentes.com/logitech"
+                        },{
+                            "nombre": "Razer", 
+                            "link": "https://www.pccomponentes.com/razer"
+                        },{
+                            "nombre": "TP-Link",
+                            "link": "https://www.pccomponentes.com/espacio-tp-link"
+                        },{
+                            "nombre": "Strong",
+                            "link": "https://www.pccomponentes.com/strong-store"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Gaming y videojuegos",
+            "link": "https://www.pccomponentes.com/gaming",
+            "subcategoria": [
+                {
+                    "nombre": "Ordenadores gaming",
+                    "opciones": [
+                        {
+                            "nombre": "PC gaming",
+                            "link": "https://www.pccomponentes.com/sobremesa/sobremesa-gaming"
+                        },{
+                            "nombre": "Portátiles gaming",
+                            "link": "https://www.pccomponentes.com/portatiles-gaming"
+                        },{
+                            "nombre": "PcCom gaming",
+                            "link": "https://www.pccomponentes.com/sobremesa/pccom-pccom-gaming/sobremesa-gaming"
+                        }
+                    ]
+                }, {
+                    "nombre": "Periféricos gaming",
+                    "opciones": [
+                        {
+                            "nombre": "Monitores gaming",
+                            "link": "https://www.pccomponentes.com/monitores-gaming"
+                        },{
+                            "nombre": "Mandos PC / Gamepads",
+                            "link": "https://www.pccomponentes.com/mandos-pc"
+                        },{
+                            "nombre": "Auriculares gaming",
+                            "link": "https://www.pccomponentes.com/auriculares-gaming"
+                        },{
+                            "nombre": "Teclados gaming",
+                            "link": "https://www.pccomponentes.com/teclados-gaming"
+                        },{
+                            "nombre": "Ratones gaming",
+                            "link": "https://www.pccomponentes.com/ratones-gaming"
+                        },{
+                            "nombre": "Volantes",
+                            "link": "https://www.pccomponentes.com/volantes"
+                        },{
+                            "nombre": "Joysticks PC",
+                            "link": "https://www.pccomponentes.com/joysticks"
+                        }
+                    ]
+                }, {
+                    "nombre": "Setup gaming",
+                    "opciones": [
+                        {
+                            "nombre": "Sillas gaming",
+                            "link": "https://www.pccomponentes.com/sillas-gaming"
+                        },{
+                            "nombre": "Accesorios gaming",
+                            "link": "https://www.pccomponentes.com/accesorios-gaming"
+                        },{
+                            "nombre": "Mesas gaming",
+                            "link": "https://www.pccomponentes.com/mesas-gaming"
+                        },{
+                            "nombre": "Alfombrillas gaming",
+                            "link": "https://www.pccomponentes.com/alfombrillas/gaming-gamer"
+                        },{
+                            "nombre": "Puff gaming", 
+                            "link": "https://www.pccomponentes.com/puff"
+                        },{
+                            "nombre": "Micrófonos",
+                            "link": "https://www.pccomponentes.com/microfonos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Consolas",
+                    "opciones": [
+                        {
+                            "nombre": "PS5 Pro",
+                            "link": "https://www.pccomponentes.com/sony-playstation-5-pro"
+                        },{
+                            "nombre": "PS5",
+                            "link": "https://www.pccomponentes.com/videoconsolas-ps5"
+                        },{
+                            "nombre": "Nintendo Switch",
+                            "link": "https://www.pccomponentes.com/videoconsolas-nintendo-switch"
+                        },{
+                            "nombre": "Consolas retro, mini y arcade",
+                            "link": "https://www.pccomponentes.com/consolas-retro"
+                        },{
+                            "nombre": "Consolas portátiles",
+                            "link": "https://www.pccomponentes.com/consolas-portatiles"
+                        },{
+                            "nombre":"Xbox Series X/S",
+                            "link": "https://www.pccomponentes.com/videoconsolas-xbox-series-x-s"
+                        },{
+                            "nombre": "PS4",
+                            "link": "https://www.pccomponentes.com/videoconsolas-ps4"
+                        }
+                    ]
+                }, {
+                    "nombre": "Videojuegos",
+                    "opciones": [
+                        {
+                            "nombre": "Juegos PS5",
+                            "link": "https://www.pccomponentes.com/juegos-ps5"
+                        },{
+                            "nombre": "Juegos Nintendo Switch 2",
+                            "link": "https://www.pccomponentes.com/juegos-nintendo-switch-2"
+                        },{
+                            "nombre": "Juegos Nintendo Switch",
+                            "link": "https://www.pccomponentes.com/juegos-nintendo-switch"
+                        },{
+                            "nombre": "Juegos para PC",
+                            "link": "https://www.pccomponentes.com/juegos-pc"
+                        },{
+                            "nombre": "Juegos PS4",
+                            "link": "https://www.pccomponentes.com/juegos-ps4"
+                        },{
+                            "nombre": "Juegos Xbox",
+                            "link": "https://www.pccomponentes.com/juegos-xbox-one"
+                        }
+                    ]
+                }, {
+                    "nombre": "Mandos de consola",
+                    "opciones": [
+                        {
+                            "nombre": "Mandos y Joy-Con Nintendo Switch 2",
+                            "link": "https://www.pccomponentes.com/mandos-pc/nintendo/nintendo-switch-2"
+                        },{
+                            "nombre": "Mandos PS5",
+                            "link": "https://www.pccomponentes.com/mandos-ps5"
+                        },{
+                            "nombre": "Mandos Xbox",
+                            "link": "https://www.pccomponentes.com/mandos-xbox-one"
+                        },{
+                            "nombre": "Mandos PS4",
+                            "link": "https://www.pccomponentes.com/mandos-ps4"
+                        },{
+                            "nombre": "Mandos y Joy-Con Nintendo Switch",
+                            "link": "https://www.pccomponentes.com/mandos-nintendo-switch"
+                        }
+                    ]
+                }, {
+                    "nombre": "Simulación gaming",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Simulación gaming",
+                            "link": "https://www.pccomponentes.com/simulacion-gaming"
+                        },{
+                            "nombre": "Simracing",
+                            "link": "https://www.pccomponentes.com/simulacion-gaming/accesorios-racing/asientos-y-cockpits/pedales/shifters-y-handbrakes/soportes-carreras/volantes-carreras"
+                        },{
+                            "nombre": "Simflight",
+                            "link": "https://www.pccomponentes.com/simulacion-gaming/accesorios-simulador/asientos-y-cockpits-simulador/joystick-yokes/palanca-gases-thottle/pedales-simulador/soportes-simulador"
+                        },{
+                            "nombre": "Simtask",
+                            "link": "https://www.pccomponentes.com/simulacion-gaming/volantes-simulacion"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios de consola",
+                    "opciones": [
+                        {
+                            "nombre": "Accesorios PS5",
+                            "link": "https://www.pccomponentes.com/accesorios-ps5"
+                        },{
+                            "nombre": "Accesorios Nintendo Switch 2",
+                            "link": "https://www.pccomponentes.com/accesorios-nintendo-switch-2"
+                        },{
+                            "nombre": "Accesorios Nintendo Switch",
+                            "link": "https://www.pccomponentes.com/accesorios-nintendo-switch"
+                        },{
+                            "nombre": "Accesorios Xbox Series X/S",
+                            "link": "https://www.pccomponentes.com/accesorios-xbox-series-x-s"
+                        },{
+                            "nombre": "Accesorios PS4",
+                            "link": "https://www.pccomponentes.com/accesorios-ps4"
+                        },{
+                            "nombre": "Accesorios Xbox One",
+                            "link": "https://www.pccomponentes.com/accesorios-xbox-one"
+                        }
+                    ]
+                }, {
+                    "nombre": "Realidad virtual",
+                    "opciones": [
+                        {
+                            "nombre": "Gafas de realidad virtual",
+                            "link": "https://www.pccomponentes.com/gafas-realidad-virtual"
+                        }
+                    ]
+                }, {
+                    "nombre": "Merchandising",
+                    "opciones": [
+                        {
+                            "nombre": "Mundo videojuegos",
+                            "link": "https://www.pccomponentes.com/mundo-videojuegos"
+                        },{
+                            "nombre": "Funkos",
+                            "link": "https://www.pccomponentes.com/Funko"
+                        },{
+                            "nombre": "Mundo cine",
+                            "link": "https://www.pccomponentes.com/mundo-cine"
+                        },{
+                            "nombre": "Mundo series",
+                            "link": "https://www.pccomponentes.com/mundo-series"
+                        }
+                    ]
+                }, {
+                    "nombre": "Servicios gaming",
+                    "opciones": [
+                        {
+                            "nombre": "Pack de optimización gaming",
+                            "link": "https://www.pccomponentes.com/pack-de-optimizacion-gaming-pc-monitor-streaming-tecnico-a-domicilio"
+                        },{
+                            "nombre": "Optimización gaming",
+                            "link": "https://www.pccomponentes.com/servicio-de-optimizacion-gaming-tecnico-a-domicilio"
+                        },{
+                            "nombre": "Configuración de streaming",
+                            "link": "https://www.pccomponentes.com/configuracion-y-optimizacion-de-streaming"
+                        },{
+                            "nombre": "Optimización de monitores gaming",
+                            "link": "https://www.pccomponentes.com/optimizacion-de-monitores-gaming"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Smartphones y tablets",
+            "link": "https://www.pccomponentes.com/smartphone-y-tablets",
+            "subcategoria": [
+                {
+                    "nombre": "Smartphones",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Smartphones",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles"
+                        },{
+                            "nombre": "Smartphones por menos de 200€",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/mas-relevantes?price_from=89&price_to=200"
+                        },{
+                            "nombre": "Smartphones gama media",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/mas-relevantes?price_from=309&price_to=622"
+                        },{
+                            "nombre": "Smartphones gama alta",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles?price_from=879"
+                        },{
+                            "nombre": "Smartphones plegables",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/movil-plegable"
+                        },{
+                            "nombre": "Smartphones reacondicionados",
+                            "link": "https://www.pccomponentes.com/moviles-reacondicionados"
+                        },{
+                            "nombre": "Móviles básicos",
+                            "link": "https://www.pccomponentes.com/moviles-basicos"
+                        },{
+                            "nombre": "Smartphones mejor valorados",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/mejor-valorados"
+                        }
+                    ]
+                }, {
+                    "nombre": "Smartphones por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Smartphones de marca",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles"
+                        },{
+                            "nombre": "Google Pixel",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/google"
+                        },{
+                            "nombre": "OnePlus",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/oneplus"
+                        },{
+                            "nombre": "iPhone",
+                            "link": "https://www.pccomponentes.com/iphone"
+                        },{
+                            "nombre": "Xiaomi",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/xiaomi"
+                        },{
+                            "nombre": "Samsung",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/samsung"
+                        },{
+                            "nombre": "Oppo",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/oppo"
+                        },{
+                            "nombre": "Realme",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/realme"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios para smartphones",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Accesorios para smartphones",
+                            "link": "https://www.pccomponentes.com/accesorios-smartphone"
+                        },{
+                            "nombre": "Fundas para smartphones",
+                            "link": "https://www.pccomponentes.com/fundas-y-carcasas-para-moviles-smartphones"
+                        },{
+                            "nombre": "Cargadores",
+                            "link": "https://www.pccomponentes.com/accesorios-smartphone/cargador"
+                        },{
+                            "nombre": "Powerbanks",
+                            "link": "https://www.pccomponentes.com/powerbanks"
+                        },{
+                            "nombre": "Auriculares para smartphones",
+                            "link": "https://www.pccomponentes.com/auriculares/apple/belkin/huawei/motorola/nothing/oppo/para-smartphone/samsung/xiaomi"
+                        },{
+                            "nombre": "Protectores de pantalla",
+                            "link": "https://www.pccomponentes.com/accesorios-smartphone/protectores-pantalla"
+                        },{
+                            "nombre": "Tarjetas microSD",
+                            "link": "https://www.pccomponentes.com/micro-sd"
+                        }
+                    ]
+                }, {
+                    "nombre": "Tablets",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Tablets",
+                            "link": "https://www.pccomponentes.com/tablets"
+                        },{
+                            "nombre": "Tablets por menos de 200€",
+                            "link": "https://www.pccomponentes.com/tablets/mas-relevantes?price_from=129&price_to=200"
+                        },{
+                            "nombre": "Tablets calidad-precio",
+                            "link": "https://www.pccomponentes.com/tablets/mas-relevantes?price_from=200&price_to=400"
+                        },{
+                            "nombre": "Tablets premium",
+                            "link": "https://www.pccomponentes.com/tablets/mas-relevantes?price_from=999"
+                        },{
+                            "nombre": "Tablets reacondicionadas",
+                            "link": "https://www.pccomponentes.com/tablets/reacondicionado"
+                        }
+                    ]
+                }, {
+                    "nombre": "Tablets por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Tablets por marca",
+                            "link": "https://www.pccomponentes.com/tablets"
+                        },{
+                            "nombre": "iPad",
+                            "link": "https://www.pccomponentes.com/tablets-ipad"
+                        },{
+                            "nombre": "Samsung Galaxy Tab",
+                            "link": "https://www.pccomponentes.com/tablets/samsung"
+                        },{
+                            "nombre": "Xiaomi Pad",
+                            "link": "https://www.pccomponentes.com/tablets/xiaomi"
+                        },{
+                            "nombre": "Lenovo Tab",
+                            "link": "https://www.pccomponentes.com/tablets/lenovo"
+                        },{
+                            "nombre": "Tablets Huawei",
+                            "link": "https://www.pccomponentes.com/tablets/huawei"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios para tablets",
+                    "opciones": [
+                        {
+                            "nombre": "Tdo en Accesorios para tablets",
+                            "link": "https://www.pccomponentes.com/accesorios-para-tablets"
+                        },{
+                            "nombre": "Fundas para tablets",
+                            "link": "https://www.pccomponentes.com/fundas-para-tablets"
+                        },{
+                            "nombre": "Lápiz para tablets",
+                            "link": "https://www.pccomponentes.com/pen-stylus"
+                        },{
+                            "nombre": "Soportes para tablets",
+                            "link": "https://www.pccomponentes.com/soportes-para-tablets"
+                        },{
+                            "nombre": "Protectores de pantalla",
+                            "link": "https://www.pccomponentes.com/protectores-de-pantalla-para-tablets"
+                        },{
+                            "nombre": "Tarjetas microSD",
+                            "link": "https://www.pccomponentes.com/micro-sd"
+                        }
+                    ]
+                }, {
+                    "nombre": "eBooks",
+                    "opciones": [
+                        {
+                            "nombre": "eBooks - Libros electrónicos",
+                            "link": "https://www.pccomponentes.com/libros-electronicos-e-books"
+                        },{
+                            "nombre": "Kindle",
+                            "link": "https://www.pccomponentes.com/libros-electronicos-e-books/kindle"
+                        },{
+                            "nombre": "Accesorios eBooks",
+                            "link": "https://www.pccomponentes.com/accesorios-libros-electronicos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Telefonía fija",
+                    "opciones": [
+                        {
+                            "nombre": "Teléfonos inalámbricos",
+                            "link": "https://www.pccomponentes.com/telefonos-fijos/inalambricos-sin-cable"
+                        },{
+                            "nombre": "Teléfonos VoIP",
+                            "link": "https://www.pccomponentes.com/voip"
+                        },{
+                            "nombre": "Teléfonos sobremesa",
+                            "link": "https://www.pccomponentes.com/telefonos-fijos/telefono-sobremesa"
+                        }
+                    ]
+                }, {
+                    "nombre": "Espacio Apple",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Espacio Apple",
+                            "link": "https://www.pccomponentes.com/espacio-iphone"
+                        },{
+                            "nombre": "iPhone",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/apple"
+                        },{
+                            "nombre": "iPad",
+                            "link": "https://www.pccomponentes.com/tablets/apple"
+                        },{
+                            "nombre": "Apple Watch",
+                            "link": "https://www.pccomponentes.com/smartwatch/apple"
+                        },{
+                            "nombre": "AirPods",
+                            "link": "https://www.pccomponentes.com/auriculares/apple"
+                        }
+                    ]
+                }, {
+                    "nombre": "Smartphones reacondicionados",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Smartphones reacondicionados",
+                            "link": "https://www.pccomponentes.com/moviles-reacondicionados"
+                        },{
+                            "nombre": "iPhone reacondicionado",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/apple/reacondicionado"
+                        },{
+                            "nombre": "Xiaomi reacondicionado",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/reacondicionado/xiaomi"
+                        }, {
+                            "nombre": "Samsung reacondicionado",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/reacondicionado/samsung"
+                        }, {
+                            "nombre": "Google Pixel reacondicionado",
+                            "link": "https://www.pccomponentes.com/smartphone-moviles/google/reacondicionado"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "Televisores",
+            "link": "https://www.pccomponentes.com/especial-ocio-en-casa",
+            "subcategoria": [
+                {
+                    "nombre": "Televisores por pulgadas",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Televisores por pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores"
+                        },{
+                            "nombre": "TV 55 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/55-pulgadas"
+                        },{
+                            "nombre": "TV 65 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/65-pulgadas"
+                        },{
+                            "nombre": "TV 75 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/75-pulgadas"
+                        },{
+                            "nombre": "TV 43 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/43-pulgadas"
+                        },{
+                            "nombre": "TV 32 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/32-pulgadas"
+                        },{
+                            "nombre": "TV 50 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/50-pulgadas"
+                        },{
+                            "nombre": "TV 40 pulgadas",
+                            "link": "https://www.pccomponentes.com/televisores/40-pulgadas"
+                        }
+                    ]
+                }, {
+                    "nombre": "Televisores por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Televisores por marca",
+                            "link": "https://www.pccomponentes.com/televisores"
+                        },{
+                            "nombre": "Televisores Samsung",
+                            "link": "https://www.pccomponentes.com/televisores-samsung"
+                        },{
+                            "nombre": "Televisores LG",
+                            "link": "https://www.pccomponentes.com/televisores-lg"
+                        },{
+                            "nombre": "Televisores TCL",
+                            "link": "https://www.pccomponentes.com/televisores/tcl-corporation"
+                        },{
+                            "nombre": "Televisores Philips",
+                            "link": "https://www.pccomponentes.com/tv-philips"
+                        },{
+                            "nombre": "Televisores Xiaomi",
+                            "link": "https://www.pccomponentes.com/televisores/xiaomi"
+                        },{
+                            "nombre": "Televisores Hisense",
+                            "link": "https://www.pccomponentes.com/televisores/hisense"
+                        },{
+                            "nombre": "Televisores Nilait",
+                            "link": "https://www.pccomponentes.com/televisores/nilait"
+                        },{
+                            "nombre": "Televisores Toshiba",
+                            "link": "https://www.pccomponentes.com/televisores/toshiba"
+                        }
+                    ]
+                }, {
+                    "nombre": "Tipos de televisores",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Tipos de televisores",
+                            "link": "https://www.pccomponentes.com/televisores"
+                        },{
+                            "nombre": "OLED",
+                            "link": "https://www.pccomponentes.com/televisores/oled"
+                        },{
+                            "nombre": "Smart TV",
+                            "link": "https://www.pccomponentes.com/televisores/smart-tv"
+                        },{
+                            "nombre": "4K/UHD",
+                            "link": "https://www.pccomponentes.com/televisores/3840-x-2160-4k-uhd"
+                        },{
+                            "nombre": "QLED",
+                            "link": "https://www.pccomponentes.com/televisores/qled"
+                        },{
+                            "nombre": "TV ambilight",
+                            "link": "https://www.pccomponentes.com/televisores/ambilight"
+                        }
+                    ]
+                }, {
+                    "nombre": "Vídeo",
+                    "opciones": [
+                        {
+                            "nombre": "Android/Apple TV",
+                            "link": "https://www.pccomponentes.com/android-smart-tv"
+                        },{
+                            "nombre": "Reproductores Blue-ray/DVD",
+                            "link": "https://www.pccomponentes.com/reproductores-blu-ray-dvd"
+                        },{
+                            "nombre": "Receptores de TDT y TV",
+                            "link": "https://www.pccomponentes.com/receptores-tv"
+                        },{
+                            "nombre": "Capturadoras de vídeo",
+                            "link": "https://www.pccomponentes.com/capturadoras"
+                        }
+                    ]
+                }, {
+                    "nombre": "Proyección y accesorios",
+                    "opciones": [
+                        {
+                            "nombre": "Proyectores",
+                            "link": "https://www.pccomponentes.com/proyectores"
+                        },{
+                            "nombre": "Pantallas de proyector",
+                            "link": "https://www.pccomponentes.com/pantallas-de-proyeccion"
+                        },{
+                            "nombre": "Accesorios para proyectores",
+                            "link": "https://www.pccomponentes.com/recambios-y-accesorios-para-proyectores"
+                        },{
+                            "nombre": "Punteros y presentadores",
+                            "link": "https://www.pccomponentes.com/presentadores-multimedia"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios TV",
+                    "opciones": [
+                        {
+                            "nombre": "Soportes TV",
+                            "link": "https://www.pccomponentes.com/accesorios-de-soportes/soporte-tv"
+                        },{
+                            "nombre": "Cables HDMI",
+                            "link": "https://www.pccomponentes.com/cables-hdmi"
+                        },{
+                            "nombre": "Mandos a distancia",
+                            "link": "https://www.pccomponentes.com/mandos-a-distancia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "Electrodomésticos",
+            "link": "https://www.pccomponentes.com/electrodomesticos",
+            "subcategoria": [
+                {
+                    "nombre": "Gran electrodoméstico",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Gran electrodoméstico",
+                            "link": "https://www.pccomponentes.com/gran-electrodomestico"
+                        },{
+                            "nombre": "Frigoríficos",
+                            "link": "https://www.pccomponentes.com/frigorificos"
+                        },{
+                            "nombre": "Lavadoras",
+                            "link": "https://www.pccomponentes.com/lavadoras"
+                        },{
+                            "nombre": "Lavavajillas",
+                            "link": "https://www.pccomponentes.com/lavavajillas"
+                        },{
+                            "nombre": "Secadoras",
+                            "link": "https://www.pccomponentes.com/secadoras"
+                        },{
+                            "nombre": "Hornos",
+                            "link": "https://www.pccomponentes.com/hornos"
+                        },{
+                            "nombre": "Placas de cocina",
+                            "link": "https://www.pccomponentes.com/encimeras"
+                        },{
+                            "nombre": "Campanas extractoras",
+                            "link": "https://www.pccomponentes.com/campanas-extractoras"
+                        },{
+                            "nombre": "Lavadoras secadoras",
+                            "link": "https://www.pccomponentes.com/lavasecadoras"
+                        },{
+                            "nombre": "Congeladores",
+                            "link": "https://www.pccomponentes.com/congeladores"
+                        },{
+                            "nombre":"Cocinas de gas y eléctricas",
+                            "link": "https://www.pccomponentes.com/cocinas"
+                        },{
+                            "nombre": "Vinotecas",
+                            "link": "https://www.pccomponentes.com/vinotecas"
+                        },{
+                            "nombre": "Recambios de electrodomésticos",
+                            "link": "https://www.pccomponentes.com/repuestos-y-accesorios-de-electrodomesticos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Pequeño Electrodoméstico",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Pequeño electrodoméstico",
+                            "link": "https://www.pccomponentes.com/pequeno-electrodomestico"
+                        },{
+                            "nombre": "Cafeteras",
+                            "link": "https://www.pccomponentes.com/cafeteras"
+                        },{
+                            "nombre": "Microondas",
+                            "link": "https://www.pccomponentes.com/microondas"
+                        },{
+                            "nombre": "Freidoras de aire",
+                            "link": "https://www.pccomponentes.com/freidoras/de-aire"
+                        },{
+                            "nombre": "Batidoras",
+                            "link": "https://www.pccomponentes.com/batidoras"
+                        },{
+                            "nombre": "Robots de cocina",
+                            "link": "https://www.pccomponentes.com/robots-cocina"
+                        },{
+                            "nombre": "Planchas y grills de asar",
+                            "link": "https://www.pccomponentes.com/planchas-barbacoas-grills/plancha-de-asar/plancha-grill"
+                        },{
+                            "nombre": "Tostadoras",
+                            "link": "https://www.pccomponentes.com/tostadoras"
+                        },{
+                            "nombre": "Fun cooking",
+                            "link": "https://www.pccomponentes.com/fun-cooking"
+                        },{
+                            "nombre": "Neveras portátiles",
+                            "link": "https://www.pccomponentes.com/neveras-portatiles"
+                        },{
+                            "nombre": "Exprimidores",
+                            "link": "https://www.pccomponentes.com/exprimidores"
+                        },{
+                            "nombre": "Barbacoas",
+                            "link": "https://www.pccomponentes.com/planchas-barbacoas-grills/barbacoa"
+                        },{
+                            "nombre": "Cocinas portátiles",
+                            "link": "https://www.pccomponentes.com/placas-de-cocina-portatiles"
+                        },{
+                            "nombre": "Sandwicheras",
+                            "link": "https://www.pccomponentes.com/sandwicheras"
+                        },{
+                            "nombre": "Hervidoras",
+                            "link": "https://www.pccomponentes.com/hervidoras"
+                        },{
+                            "nombre": "Ollas eléctricas",
+                            "link": "https://www.pccomponentes.com/ollas-electricas"
+                        },{
+                            "nombre": "Básculas de cocina",
+                            "link": "https://www.pccomponentes.com/basculas-de-cocina"
+                        }
+                    ]
+                }, {
+                    "nombre": "Ventilación y clima",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en ventilación y clima",
+                            "link": "https://www.pccomponentes.com/especial-clima"
+                        },{
+                            "nombre": "Aire acondicionado",
+                            "link": "https://www.pccomponentes.com/aire-acondicionado"
+                        },{
+                            "nombre": "Tratamiento de aire",
+                            "link": "https://www.pccomponentes.com/tratamiento-del-aire"
+                        },{
+                            "nombre": "Ventiladores",
+                            "link": "https://www.pccomponentes.com/ventiladores-hogar"
+                        },{
+                            "nombre": "Climatizadores evaporativos",
+                            "link": "https://www.pccomponentes.com/climatizadores-evaporativos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Aspiradoras y limpieza",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Aspiradoras y limpieza",
+                            "link": "https://www.pccomponentes.com/aspiradoras-y-limpieza"
+                        },{
+                            "nombre": "Robots aspiradores",
+                            "link": "https://www.pccomponentes.com/robot-aspiradoras"
+                        },{
+                            "nombre": "Aspiradoras escoba",
+                            "link": "https://www.pccomponentes.com/aspirador-escoba"
+                        },{
+                            "nombre": "Aspiradoras",
+                            "link": "https://www.pccomponentes.com/aspiradoras"
+                        },{
+                            "nombre": "Fregonas eléctricas",
+                            "link": "https://www.pccomponentes.com/aspiradoras/fregonas-electricas"
+                        },{
+                            "nombre": "Vaporetas y limpieza a vapor",
+                            "link": "https://www.pccomponentes.com/limpiadoras-de-vapor"
+                        }
+                    ]
+                }, {
+                    "nombre": "Planchado y costura",
+                    "opciones": [
+                        {
+                            "nombre": "Planchas y centros de planchado",
+                            "link": "https://www.pccomponentes.com/planchado"
+                        },{
+                            "nombre": "Máquinas de coser",
+                            "link": "https://www.pccomponentes.com/maquinas-de-coser"
+                        },{
+                            "nombre": "Quitapelusas",
+                            "link": "https://www.pccomponentes.com/mas-para-el-hogar/quitapelusas"
+                        }
+                    ]
+                }, {
+                    "nombre": "Belleza y salud",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Belleza y salud",
+                            "link": "https://www.pccomponentes.com/belleza-y-salud"
+                        },{
+                            "nombre": "Moldeadores de pelo",
+                            "link": "https://www.pccomponentes.com/rizadores-y-moldeadores/cepillo-moldeador"
+                        },{
+                            "nombre": "Secadores de pelo",
+                            "link": "https://www.pccomponentes.com/secadores-de-pelo"
+                        },{
+                            "nombre": "Salud sexual",
+                            "link": "https://www.pccomponentes.com/salud-sexual"
+                        },{
+                            "nombre": "Afeitadoras",
+                            "link": "https://www.pccomponentes.com/afeitadoras"
+                        },{
+                            "nombre": "Planchas de pelo",
+                            "link": "https://www.pccomponentes.com/planchas-de-pelo"
+                        },{
+                            "nombre": "Depiladoras",
+                            "link": "https://www.pccomponentes.com/depiladoras"
+                        },{
+                            "nombre": "Cepillos de dientes electrónicos",
+                            "link": "https://www.pccomponentes.com/cepillos-electricos"
+                        },{
+                            "nombre": "Máquinas fitness",
+                            "link": "https://www.pccomponentes.com/fitness-y-aparatos-de-gimnasia"
+                        },{
+                            "nombre": "Cortapelos",
+                            "link": "https://www.pccomponentes.com/cortapelos"
+                        },{
+                            "nombre": "Tenacillas y rizadores",
+                            "link": "https://www.pccomponentes.com/rizadores-y-moldeadores"
+                        },{
+                            "nombre": "Mantas eléctricas",
+                            "link": "https://www.pccomponentes.com/mantas-electricas"
+                        },{
+                            "nombre": "Báculas",
+                            "link": "https://www.pccomponentes.com/basculas"
+                        },{
+                            "nombre": "Tensiómetros",
+                            "link": "https://www.pccomponentes.com/tensiometros"
+                        }
+                    ]
+                }, {
+                    "nombre": "Calefacción",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Calefacción",
+                            "link": "https://www.pccomponentes.com/especial-calefaccion"
+                        },{
+                            "nombre": "Radiadores eléctricos",
+                            "link": "https://www.pccomponentes.com/radiadores-electricos"
+                        },{
+                            "nombre": "Calefactores",
+                            "link": "https://www.pccomponentes.com/calefactores"
+                        },{
+                            "nombre": "Calentadores y termos",
+                            "link": "https://www.pccomponentes.com/calentadores-y-termos"
+                        },{
+                            "nombre": "Estufas",
+                            "link": "https://www.pccomponentes.com/estufas"
+                        },{
+                            "nombre": "Chimeneas",
+                            "link": "https://www.pccomponentes.com/chimeneas"
+                        },{
+                            "nombre": "Toalleros eléctricos",
+                            "link": "https://www.pccomponentes.com/toalleros-electricos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Zona marcas",
+                    "opciones": [
+                        {
+                            "nombre": "Dyson",
+                            "link": "https://www.pccomponentes.com/espacio-dyson"
+                        },{
+                            "nombre": "Infition",
+                            "link": "https://www.pccomponentes.com/espacio-infiniton"
+                        },{
+                            "nombre": "Delonghi",
+                            "link": "https://www.pccomponentes.com/espacio-delonghi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "Hogar",
+            "link": "https://www.pccomponentes.com/hogar",
+            "subcategoria": [
+                {
+                    "nombre": "Domótica y smarthome",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Domótica y smarthome",
+                            "link": "https://www.pccomponentes.com/smarthome"
+                        },{
+                            "nombre": "Domótica",
+                            "link": "https://www.pccomponentes.com/domotica"
+                        },{
+                            "nombre": "Cámaras IP",
+                            "link": "https://www.pccomponentes.com/camaras-ip"
+                        },{
+                            "nombre": "Enchufes inteligentes",
+                            "link": "https://www.pccomponentes.com/enchufes-inteligentes"
+                        },{
+                            "nombre": "Iluminación inteligente",
+                            "link": "https://www.pccomponentes.com/iluminacion-inteligente"
+                        },{
+                            "nombre": "Estaciones climatológicas",
+                            "link": "https://www.pccomponentes.com/estaciones-climatologicas"
+                        },{
+                            "nombre": "Mirillas y videoporteros",
+                            "link": "https://www.pccomponentes.com/domotica/mirillas"
+                        },{
+                            "nombre": "Termostatos inteligentes",
+                            "link": "https://www.pccomponentes.com/termostatos-inteligentes"
+                        },{
+                            "nombre": "Altavoces inteligentes",
+                            "link": "https://www.pccomponentes.com/altavoces/inteligentes"
+                        },{
+                            "nombre": "Alarmas",
+                            "link": "https://www.pccomponentes.com/alarmas"
+                        },{
+                            "nombre": "Sensores de movimientos",
+                            "link": "https://www.pccomponentes.com/sensores-y-detectores-de-movimiento"
+                        },{
+                            "nombre": "Contrata tu servicio de alarma",
+                            "link": "https://www.pccomponentes.com/servicio-de-alarmas-por-suscripcion"
+                        }
+                    ]
+                }, {
+                    "nombre": "Iluminación",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Iluminación",
+                            "link": "https://www.pccomponentes.com/iluminacion"
+                        },{
+                            "nombre": "Tiras LED",
+                            "link": "https://www.pccomponentes.com/tiras-led"
+                        },{
+                            "nombre": "Lámparas",
+                            "link": "https://www.pccomponentes.com/lamparas"
+                        },{
+                            "nombre": "Iluminación inteligente",
+                            "link": "https://www.pccomponentes.com/iluminacion-inteligente"
+                        },{
+                            "nombre": "Paneles LED",
+                            "link": "https://www.pccomponentes.com/paneles-led"
+                        },{
+                            "nombre": "Barras de luz",
+                            "link": "https://www.pccomponentes.com/barras-led"
+                        },{
+                            "nombre": "Bombillas",
+                            "link": "https://www.pccomponentes.com/bombillas"
+                        },{
+                            "nombre": "Linternas",
+                            "link": "https://www.pccomponentes.com/linternas"
+                        }
+                    ]
+                }, {
+                    "nombre": "Jardín y bricolaje",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Jardín y bricolaje",
+                            "link": "https://www.pccomponentes.com/jardin-y-bricolaje"
+                        },{
+                            "nombre": "Herramientas eléctricas",
+                            "link": "https://www.pccomponentes.com/herramienta-electrica"
+                        },{
+                            "nombre": "Barbacoas",
+                            "link": "https://www.pccomponentes.com/planchas-barbacoas-grills/barbacoa"
+                        },{
+                            "nombre": "Accesorios de jardinería",
+                            "link": "https://www.pccomponentes.com/accesorios-de-jardineria"
+                        },{
+                            "nombre": "Piscinas y mantenimiento",
+                            "link": "https://www.pccomponentes.com/piscinas-y-mantenimiento"
+                        },{
+                            "nombre": "Herramienta de mano",
+                            "link": "https://www.pccomponentes.com/herramienta-de-mano"
+                        },{
+                            "nombre": "Energía y placas solares",
+                            "link": "https://www.pccomponentes.com/placas-solares"
+                        },{
+                            "nombre": "Hidrolimpiadoras",
+                            "link": "https://www.pccomponentes.com/hidrolimpiadoras"
+                        },{
+                            "nombre": "Motosierras",
+                            "link": "https://www.pccomponentes.com/motosierras"
+                        },{
+                            "nombre": "Cortacésped",
+                            "link": "https://www.pccomponentes.com/cortacesped"
+                        },{
+                            "nombre": "Cortasetos",
+                            "link": "https://www.pccomponentes.com/cortasetos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Menaje y accesorios de cocina",
+                    "opciones": [
+                        {
+                            "nombre": "Sartenes",
+                            "link": "https://www.pccomponentes.com/menaje-y-accesorios-de-cocina/sartenes"
+                        },{
+                            "nombre": "Baterías de cocina",
+                            "link": "https://www.pccomponentes.com/menaje-y-accesorios-de-cocina/baterias-de-cocina"
+                        },{
+                            "nombre": "Ollas",
+                            "link": "https://www.pccomponentes.com/menaje-y-accesorios-de-cocina/ollas"
+                        },{
+                            "nombre": "Ollas express",
+                            "link": "https://www.pccomponentes.com/menaje-y-accesorios-de-cocina/ollas-express"
+                        },{
+                            "nombre": "Purificación de agua",
+                            "link": "https://www.pccomponentes.com/purificacion-de-agua"
+                        }
+                    ]
+                }, {
+                    "nombre": "Oficina y papelería",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Oficina y papelería",
+                            "link": "https://www.pccomponentes.com/oficina-y-papeleria"
+                        },{
+                            "nombre": "Silla de oficina",
+                            "link": "https://www.pccomponentes.com/sillas-oficina"
+                        },{
+                            "nombre": "Mesas de escritorio",
+                            "link": "https://www.pccomponentes.com/mesas-escritorio"
+                        },{
+                            "nombre": "Ver todo material de oficina",
+                            "link": "https://www.pccomponentes.com/material-de-oficina"
+                        },{
+                            "nombre": "Manualidades y creatividad",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/accesorios-de-creatividad/hojas-de-transferencia/maquinas-de-corte/prensas-de-calor/vinilos-termoadhesivos"
+                        },{
+                            "nombre": "Agendas",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/agendas"
+                        },{
+                            "nombre": "Reposapiés y reposamuñecas",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/reposamunecas/reposapies"
+                        },{
+                            "nombre": "Archivadores y bandejas de escritorio",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/archivadores/bandejas-de-escritorio"
+                        },{
+                            "nombre": "Calculadoras",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/calculadoras"
+                        },{
+                            "nombre": "Destructoras de papel",
+                            "link": "https://www.pccomponentes.com/destructoras-papel"
+                        },{
+                            "nombre": "Plastificadoras",
+                            "link": "https://www.pccomponentes.com/material-de-oficina/plastificadoras"
+                        }
+                    ]
+                }, {
+                    "nombre": "Energías renovables",
+                    "opciones": [
+                        {
+                            "nombre": "Placas solares",
+                            "link": "https://www.pccomponentes.com/placas-solares/paneles-solares"
+                        },{
+                            "nombre": "Estaciones de energía",
+                            "link": "https://www.pccomponentes.com/estaciones-energia-portatiles"
+                        }
+                    ]
+                }, {
+                    "nombre": "Electrodomésticos",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Electrodomésticos",
+                            "link": "https://www.pccomponentes.com/electrodomesticos"
+                        },{
+                            "nombre": "Ventilación y clima",
+                            "link": "https://www.pccomponentes.com/ventilacion-y-clima"
+                        },{
+                            "nombre": "Pequeño Electrodoméstico",
+                            "link": "https://www.pccomponentes.com/pequeno-electrodomestico"
+                        },{
+                            "nombre": "Aspiradoras y limpieza",
+                            "link": "https://www.pccomponentes.com/limpieza-y-cuidado-de-la-ropa"
+                        },{
+                            "nombre": "Gran electrodoméstico",
+                            "link": "https://www.pccomponentes.com/gran-electrodomestico"
+                        },{
+                            "nombre": "Cuidado personal",
+                            "link": "https://www.pccomponentes.com/cuidado-personal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "Sonido",
+            "link": "https://www.pccomponentes.com/audio",
+            "subcategoria": [
+                {
+                    "nombre": "Auriculares",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Auriculares",
+                            "link": "https://www.pccomponentes.com/auriculares"
+                        },{
+                            "nombre": "Auriculares inalámbricos",
+                            "link": "https://www.pccomponentes.com/auriculares/inalambricos"
+                        },{
+                            "nombre": "Auriculares gaming",
+                            "link": "https://www.pccomponentes.com/auriculares/auricular-gaming"
+                        },{
+                            "nombre": "Auriculares con cancelación de ruido",
+                            "link": "https://www.pccomponentes.com/auriculares/cancelacion-de-ruido"
+                        },{
+                            "nombre": "Auriculares de diadema",
+                            "link": "https://www.pccomponentes.com/auriculares/diadema"
+                        },{
+                            "nombre": "Auriculares deportivos",
+                            "link": "https://www.pccomponentes.com/auriculares-deportivos"
+                        },{
+                            "nombre": "Auriculares con cable",
+                            "link": "https://www.pccomponentes.com/auriculares/cable"
+                        },{
+                            "nombre": "Auriculares con botón",
+                            "link": "https://www.pccomponentes.com/auriculares/boton"
+                        },{
+                            "nombre": "Auriculares con micrófono",
+                            "link": "https://www.pccomponentes.com/auriculares-con-microfono"
+                        },{
+                            "nombre": "Auriculares para oficina",
+                            "link": "https://www.pccomponentes.com/auriculares/basico-pc/diadema"
+                        }
+                    ]
+                }, {
+                    "nombre": "Altavoces",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Altavoces",
+                            "link": "https://www.pccomponentes.com/altavoces"
+                        },{
+                            "nombre": "Altavoces ordenador",
+                            "link": "https://www.pccomponentes.com/altavoces/altavoz-de-sobremesa"
+                        },{
+                            "nombre": "Altavoces bluetooth",
+                            "link": "https://www.pccomponentes.com/altavoces/altavoces-inalambricos"
+                        },{
+                            "nombre": "Altavoces portátiles",
+                            "link": "https://www.pccomponentes.com/altavoces/altavoces-portatiles"
+                        },{
+                            "nombre": "Torres de sonido",
+                            "link": "https://www.pccomponentes.com/altavoces/torre-de-sonido"
+                        },{
+                            "nombre": "Altavoces inteligentes",
+                            "link": "https://www.pccomponentes.com/altavoces/inteligentes"
+                        },{
+                            "nombre": "Altavoces con micrófono",
+                            "link": "https://www.pccomponentes.com/altavoces/altavoces-con-karaoke"
+                        }
+                    ]
+                }, {
+                    "nombre": "Home audio",
+                    "opciones": [
+                        {
+                            "nombre": "Barras de sonido y altavoces TV",
+                            "link": "https://www.pccomponentes.com/altavoces-tv-barras-sonido"
+                        },{
+                            "nombre": "Home cinema",
+                            "link": "https://www.pccomponentes.com/home-cinema"
+                        }
+                    ]
+                }, {
+                    "nombre": "HiFi y reproductores",
+                    "opciones": [
+                        {
+                            "nombre": "Minicadenas/HiFi",
+                            "link": "https://www.pccomponentes.com/micro-cadenas-hi-fi"
+                        },{
+                            "nombre": "Reproductores MP3/MP4",
+                            "link": "https://www.pccomponentes.com/reproductores-mp3-mp4"
+                        },{
+                            "nombre": "Radios",
+                            "link": "https://www.pccomponentes.com/radios"
+                        },{
+                            "nombre": "Grabadoras de voz",
+                            "link": "https://www.pccomponentes.com/grabadoras-de-voz"
+                        }
+                    ]
+                }, {
+                    "nombre": "Audio profesional y DJ",
+                    "opciones": [
+                        {
+                            "nombre": "Mundo DJ",
+                            "link": "https://www.pccomponentes.com/mundo-dj"
+                        },{
+                            "nombre": "Audio Pro",
+                            "link": "https://www.pccomponentes.com/audio-pro"
+                        }
+                    ]
+                }, {
+                    "nombre": "Micrófonos",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Micrófonos",
+                            "link": "https://www.pccomponentes.com/microfonos"
+                        },{
+                            "nombre": "Micrófonos para streaming",
+                            "link": "https://www.pccomponentes.com/microfonos/streaming"
+                        },{
+                            "nombre": "Micrófonos inalámbricos",
+                            "link": "https://www.pccomponentes.com/microfonos/inalambricos-o-bt"
+                        },{
+                            "nombre": "Micrófonos con cable",
+                            "link": "https://www.pccomponentes.com/microfonos/para-pc"
+                        },{
+                            "nombre": "Micrófonos de karaoke",
+                            "link": "https://www.pccomponentes.com/microfonos/karaoke"
+                        }
+                    ]
+                }, {
+                    "nombre": "Automóvil",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Automóvil",
+                            "link": "https://www.pccomponentes.com/car-audio"
+                        },{
+                            "nombre": "Autoradio",
+                            "link": "https://www.pccomponentes.com/car-audio/autoradio"
+                        },{
+                            "nombre": "Altavoz",
+                            "link": "https://www.pccomponentes.com/car-audio/altavoz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "Relojes inteligentes",
+            "link": "https://www.pccomponentes.com/wearables",
+            "subcategoria": [
+                {
+                    "nombre": "Wearables",
+                    "opciones": [
+                        {
+                            "nombre": "Relojes smartwatch",
+                            "link": "https://www.pccomponentes.com/smartwatch"
+                        },{
+                            "nombre": "Relojes deportivos y pulsómetros",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros"
+                        },{
+                            "nombre": "Smartwatches infantiles",
+                            "link": "https://www.pccomponentes.com/smartwatch/para-ninos-as"
+                        },{
+                            "nombre": "Pulseras de actividad",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad"
+                        }
+                    ]
+                }, {
+                    "nombre": "Smartwatch por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Smartwatch por marca",
+                            "link": "https://www.pccomponentes.com/smartwatch"
+                        },{
+                            "nombre": "Apple Watch",
+                            "link": "https://www.pccomponentes.com/smartwatch/apple"
+                        },{
+                            "nombre": "Xiaomi",
+                            "link": "https://www.pccomponentes.com/smartwatch/xiaomi"
+                        },{
+                            "nombre": "Samsung",
+                            "link": "https://www.pccomponentes.com/smartwatch/samsung"
+                        },{
+                            "nombre": "Garmin",
+                            "link": "https://www.pccomponentes.com/smartwatch/garmin"
+                        },{
+                            "nombre": "Amazfit",
+                            "link": "https://www.pccomponentes.com/smartwatch/amazfit"
+                        },{
+                            "nombre": "Fitbit",
+                            "link": "https://www.pccomponentes.com/smartwatch/fitbit"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios para smartwatch",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Accesorios para smartwatch",
+                            "link": "https://www.pccomponentes.com/accesorios-smartwatch"
+                        },{
+                            "nombre": "Correas para smartwatch",
+                            "link": "https://www.pccomponentes.com/accesorios-smartwatch/correa"
+                        },{
+                            "nombre": "Protector pantalla smartwatch",
+                            "link": "https://www.pccomponentes.com/accesorios-smartwatch/protectores-pantalla"
+                        },{
+                            "nombre": "Cargadores para smartwatch",
+                            "link": "https://www.pccomponentes.com/accesorios-smartwatch/cargador"
+                        },{
+                            "nombre": "Carcasa smartwatch",
+                            "link": "https://www.pccomponentes.com/accesorios-smartwatch/carcasa-caja"
+                        }
+                    ]
+                }, {
+                    "nombre": "Pulseras de actividad",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Pulseras de actividad",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad"
+                        },{
+                            "nombre": "Xiaomi",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad/xiaomi"
+                        },{
+                            "nombre": "Garmin",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad/garmin"
+                        },{
+                            "nombre": "Samsung",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad/samsung"
+                        },{
+                            "nombre": "Amazfit",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad/amazfit"
+                        },{
+                            "nombre": "Fitbit",
+                            "link": "https://www.pccomponentes.com/pulseras-de-actividad/fitbit"
+                        }
+                    ]
+                }, {
+                    "nombre": "Relojes deportivos y pulsómetros",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Relojes deportivos y pulsómetros",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros"
+                        },{
+                            "nombre": "Garmin",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros/garmin"
+                        },{
+                            "nombre": "Amazfit",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros/amazfit"
+                        },{
+                            "nombre": "Apple",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros/apple"
+                        },{
+                            "nombre": "Samsung",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros/samsung"
+                        },{
+                            "nombre": "Polar",
+                            "link": "https://www.pccomponentes.com/relojes-deportivos-pulsometros/polar"
+                        }
+                    ]
+                }, {
+                    "nombre": "Anillos inteligentes",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Anillos inteligentes",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes"
+                        },{
+                            "nombre": "Amazfit",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/amazfit"
+                        },{
+                            "nombre": "Ultrahuman",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/ultrahuman"
+                        },{
+                            "nombre": "Cool",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/cool"
+                        },{
+                            "nombre": "Prixton",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/prixton"
+                        },{
+                            "nombre": "Klack",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/klack"
+                        },{
+                            "nombre": "Ksix",
+                            "link": "https://www.pccomponentes.com/anillos-inteligentes/ksix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nombre": "Fotografía",
+            "link": "https://www.pccomponentes.com/especial-fotografia",
+            "subcategoria": [
+                {
+                    "nombre": "Cámaras de fotos",
+                    "opciones": [
+                        {
+                            "nombre": "Cámaras réflex",
+                            "link": "https://www.pccomponentes.com/camaras-reflex"
+                        },{
+                            "nombre": "Cámaras digitales compactas",
+                            "link": "https://www.pccomponentes.com/camaras-digitales-compactas"
+                        },{
+                            "nombre": "Cámaras mirrorless",
+                            "link": "https://www.pccomponentes.com/camaras-mirrorless"
+                        },{
+                            "nombre": "Objetivos de cámaras",
+                            "link": "https://www.pccomponentes.com/objetivos"
+                        },{
+                            "nombre": "Cámaras instantáneas",
+                            "link": "https://www.pccomponentes.com/camaras-instantaneas"
+                        },{
+                            "nombre": "Cámaras bridge",
+                            "link": "https://www.pccomponentes.com/camaras-bridge"
+                        },{
+                            "nombre": "Cámaras deportivas",
+                            "link": "https://www.pccomponentes.com/camaras-deportivas"
+                        }
+                    ]
+                }, {
+                    "nombre": "Cámaras por marca",
+                    "opciones": [
+                        {
+                            "nombre": "Canon",
+                            "link": "https://www.pccomponentes.com/canon?categories=camaras-digitales,camaras-reflex,objetivos,videocamaras"
+                        },{
+                            "nombre": "Sony",
+                            "link": "https://www.pccomponentes.com/sony?categories=camaras-digitales,objetivos,videocamaras"
+                        },{
+                            "nombre": "Fujifilm",
+                            "link": "https://www.pccomponentes.com/fujifilm?categories=camaras-digitales"
+                        },{
+                            "nombre": "Panasonic",
+                            "link": "https://www.pccomponentes.com/panasonic?categories=camaras-digitales,objetivos,videocamaras"
+                        },{
+                            "nombre": "Kodak",
+                            "link": "https://www.pccomponentes.com/kodak?categories=camaras-bridge,camaras-deportivas,camaras-digitales,videocamaras"
+                        },{
+                            "nombre": "GoPro",
+                            "link": "https://www.pccomponentes.com/gopro?categories=videocamaras"
+                        },{
+                            "nombre": "Polaroid",
+                            "link": "https://www.pccomponentes.com/polaroid?categories=camaras-digitales"
+                        },{
+                            "nombre": "Insta360",
+                            "link": "https://www.pccomponentes.com/insta360"
+                        }
+                    ]
+                }, {
+                    "nombre": "Accesorios de fotografía",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Accesorios de fotografía",
+                            "link": "https://www.pccomponentes.com/accesorios-camaras"
+                        },{
+                            "nombre": "Tarjetas de memoria",
+                            "link": "https://www.pccomponentes.com/tarjetas-de-memoria"
+                        },{
+                            "nombre": "Trípodes",
+                            "link": "https://www.pccomponentes.com/accesorios-camaras/tripode"
+                        },{
+                            "nombre": "Impresoras",
+                            "link": "https://www.pccomponentes.com/impresoras"
+                        },{
+                            "nombre": "Filtros para objetivos",
+                            "link": "https://www.pccomponentes.com/accesorios-camaras/filtros-objetivos"
+                        },{
+                            "nombre": "Fundas para cámara",
+                            "link": "https://www.pccomponentes.com/accesorios-camaras/bolsas-y-fundas"
+                        },{
+                            "nombre": "Papel fotográfico",
+                            "link": "https://www.pccomponentes.com/papel-para-impresora"
+                        },{
+                            "nombre": "Soportes",
+                            "link": "https://www.pccomponentes.com/accesorios-camaras/accesorio-soporte"
+                        },{
+                            "nombre": "Lecturas de tarjeta",
+                            "link": "https://www.pccomponentes.com/multilectores"
+                        }
+                    ]
+                }, {
+                    "nombre": "Cámaras de vídeo",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Cámaras de vídeo",
+                            "link": "https://www.pccomponentes.com/videocamaras"
+                        },{
+                            "nombre": "Cámaras deportivas",
+                            "link": "https://www.pccomponentes.com/videocamaras/deportivas"
+                        },{
+                            "nombre": "Cámaras de vídeo tradicional",
+                            "link": "https://www.pccomponentes.com/videocamaras-video"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nombre": "Ocio y movilidad",
+            "link": "",
+            "subcategoria": [
+                {
+                    "nombre": "Movilidad urbana",
+                    "opciones": [
+                        {
+                            "nombre": "Patines eléctricos",
+                            "link": "https://www.pccomponentes.com/patinetes-electricos"
+                        },{
+                            "nombre": "Bicicletas eléctricas",
+                            "link": "https://www.pccomponentes.com/bicicletas-electricas"
+                        },{
+                            "nombre": "Vehículos eléctricos",
+                            "link": "https://www.pccomponentes.com/vehiculos-electricos-para-ninos"
+                        },{
+                            "nombre": "Hoverboards",
+                            "link": "https://www.pccomponentes.com/hoverboards"
+                        },{
+                            "nombre": "Accesorios para Patinetes",
+                            "link": "https://www.pccomponentes.com/accesorios-patinetes"
+                        },{
+                            "nombre": "Accesorios para bicicletas",
+                            "link": "https://www.pccomponentes.com/accesorios-para-bicicletas"
+                        }
+                    ]
+                }, {
+                    "nombre": "Automóvil",
+                    "opciones": [
+                        {
+                            "nombre": "Balizas V16",
+                            "link": "https://www.pccomponentes.com/balizas-v16"
+                        },{
+                            "nombre": "Accesorios Automóvil",
+                            "link": "https://www.pccomponentes.com/accesorios-coche"
+                        },{
+                            "nombre": "GPS Automoción",
+                            "link": "https://www.pccomponentes.com/navegador-gps"
+                        }
+                    ]
+                }, {
+                    "nombre": "Drones y RC",
+                    "opciones": [
+                        {
+                            "nombre": "Drones",
+                            "link": "https://www.pccomponentes.com/drones"
+                        },{
+                            "nombre": "Radiocontrol",
+                            "link": "https://www.pccomponentes.com/radiocontrol"
+                        },{
+                            "nombre": "Accesorios para drones",
+                            "link": "https://www.pccomponentes.com/accesorios-drones"
+                        }
+                    ]
+                }, {
+                    "nombre": "Gadgets tecnológicos",
+                    "opciones": [
+                        {
+                            "nombre": "Gadgets",
+                            "link": "https://www.pccomponentes.com/gadgets"
+                        },{
+                            "nombre": "Telescopios",
+                            "link": "https://www.pccomponentes.com/telescopios"
+                        },{
+                            "nombre": "Prismáticos",
+                            "link": "https://www.pccomponentes.com/prismaticos"
+                        }
+                    ]
+                }, {
+                    "nombre": "Juguetes y Juegos",
+                    "opciones": [
+                        {
+                            "nombre": "Todo en Juguetes y Juegos",
+                            "link": "https://www.pccomponentes.com/juguetes-y-juegos"
+                        },{
+                            "nombre": "Tienda LEGO®",
+                            "link": "https://www.pccomponentes.com/lego-store-mkp"
+                        },{
+                            "nombre": "juguetes",
+                            "link": "https://www.pccomponentes.com/juguetes"
+                        },{
+                            "nombre": "Juguetes Vtech",
+                            "link": "https://www.pccomponentes.com/juguetes/vtech"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

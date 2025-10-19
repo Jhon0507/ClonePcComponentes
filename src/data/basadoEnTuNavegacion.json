@@ -1,0 +1,146 @@
+{
+    "carrusel": true,
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "MSI Modern 15 B7M-243XES AMD Ryzen 7 7730U/16GB/512GB SSD/15.6\"",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10741661/1707-msi-modern-15-b7m-243xes-amd-ryzen-7-7730u-16gb-512gb-ssd-156.jpg",
+            "url": "https://www.pccomponentes.com/msi-modern-15-b7m-243xes-amd-ryzen-7-7730u-16gb-512gb-ssd-156",
+            "descuento": 46,
+            "precioDescuento": "479",
+            "precioInicial": "899",
+            "puntuacion": "4,5/5",
+            "opiniones": 674,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 2,
+            "nombre": "Intel Core i5-12400 2.5 GHz",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834921/145-intel-core-i5-12400-44-ghz.jpg",
+            "url": "https://www.pccomponentes.com/intel-core-i5-12400-25-ghz",
+            "descuento": 28,
+            "precioDescuento": "143,99",
+            "precioInicial": "199,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 274,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"]
+        },
+        {
+            "id": 3,
+            "nombre": "Forgeon Darrowspike RGB Ratón Gaming Inalámbrico 19.000 DPI Negro",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/43/433867/1152-forgeon-darrowspike-raton-gaming-rgb-wireless-19000dpi-negro-comprar.jpg",
+            "url": "https://www.pccomponentes.com/forgeon-darrowspike-rgb-raton-gaming-inalambrico-19000-dpi-negro",
+            "descuento": 20,
+            "precioDescuento": "79,99",
+            "precioInicial": "99,99",
+            "puntuacion": "4,6/5",
+            "opiniones": 295,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"]
+        },
+        {
+            "id": 4,
+            "nombre": "MSI PRO B650-S WIFI",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1080/10803246/1684-msi-pro-b650-s-wifi.jpg",
+            "url": "https://www.pccomponentes.com/msi-pro-b650-s-wifi",
+            "precioInicial": "139,98",
+            "puntuacion": "4,5/5",
+            "opiniones": 439,
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            },
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"]
+        },
+        {
+            "id": 5,
+            "nombre": "Forgeon Nighthold Cordura 48x40cm 4mm Alfombrilla Gaming Negra",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/43/433857/1723-forgeon-nighthold-m-cordura-alfombrilla-gaming-negra-comprar.jpg",
+            "url": "https://www.pccomponentes.com/forgeon-nighthold-cordura-48x40cm-4mm-alfombrilla-gaming-negra",
+            "descuento": 18,
+            "precioDescuento": "143,99",
+            "precioInicial": "15,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 417,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 6,
+            "nombre": "Corsair Gaming Bundle Corsair K55 CORE RGB + Corsair Harpoon RGB Pro + Corsair MM100 + Corsair HS35 v2",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10853811/185-corsair-gaming-bundle-corsair-k55-core-rgb-corsair-harpoon-rgb-pro-corsair-mm100-corsair-hs35-v2.jpg",
+            "url": "https://www.pccomponentes.com/corsair-gaming-bundle-corsair-k55-core-rgb-corsair-harpoon-rgb-pro-corsair-mm100-corsair-hs35-v2",
+            "descuento": 18,
+            "precioDescuento": "89,99",
+            "precioInicial": "109,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 262,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 7,
+            "nombre": "Newskill Serike V2 TKL Teclado Gaming Mecánico RGB Negro NewSwitch Red",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790438/1938-newskill-serike-v2-tkl-teclado-mecanico-gaming-negro-newswitch-red.jpg",
+            "url": "https://www.pccomponentes.com/newskill-serike-v2-tkl-teclado-gaming-mecanico-rgb-negro-newswitch-red",
+            "descuento": 31,
+            "precioDescuento": "71,08",
+            "precioInicial": "103,95",
+            "puntuacion": "4,7/5",
+            "opiniones": 448,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "colores": ["bg-white", "bg-black"]
+        },
+        {
+            "id": 8,
+            "nombre": "Newskill Serike V2 TKL Teclado Gaming Mecánico RGB Blanco NewSwitch Red",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790439/1527-newskill-serike-v2-tkl-teclado-mecanico-gaming-blanco-newswitch-red.jpg",
+            "url": "https://www.pccomponentes.com/newskill-serike-v2-tkl-teclado-gaming-mecanico-rgb-blanco-newswitch-red",
+            "descuento": 24,
+            "precioDescuento": "77,98",
+            "precioInicial": "103,95",
+            "puntuacion": "4,7/5",
+            "opiniones": 448,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "colores": ["bg-white", "bg-black"]
+        },
+        {
+            "id": 9,
+            "nombre": "Keychron K3 Max Teclado Mecánico Gaming RGB Gateron Brown Hot-Swap Gris",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10818980/1628-keychron-k3-max-teclado-mecanico-gaming-rgb-gateron-brown-hot-swap-gris-4c8b9eba-56c2-4fad-a2d0-4091dc6a8fe1.jpg",
+            "url": "https://www.pccomponentes.com/keychron-k3-max-teclado-mecanico-gaming-rgb-gateron-brown-hot-swap-gris",
+            "precioInicial": "182,57",
+            "puntuacion": "4,4/5",
+            "opiniones": 22,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 30 de septiembre", "HomeIcon"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 10,
+            "nombre": "ASUS PRIME GeForce RTX 5070 OC 12GB GDDR7 Reflex 2 RTX AI DLSS4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871880/1793-asus-prime-geforce-rtx-5070-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+            "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-geforce-rtx-5070-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+            "descuento": 10,
+            "precioDescuento": "609,90",
+            "precioInicial": "679",
+            "puntuacion": "4,7/5",
+            "opiniones": 295,
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            },
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 11,
+            "nombre": "Razer Viper V3 Pro Sentinels Edition Ratón Gaming Inalámbrico 35000 DPI Rojo",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10876418/1407-razer-viper-v3-pro-sentinels-edition-raton-gaming-inalambrico-35000-dpi-rojo.jpg",
+            "url": "https://www.pccomponentes.com/razer-viper-v3-pro-sentinels-edition-raton-gaming-inalambrico-35000-dpi-rojo",
+            "precioInicial": "241,84",
+            "puntuacion": "4,7/5",
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "colores": ["bg-white", "bg-black", "bg-red-500"]
+        }
+    ]
+}

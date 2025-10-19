@@ -1,0 +1,695 @@
+{
+    "mejoresProductos": [
+        {
+            "id": 1,
+            "nombre": "Portátiles",
+            "carrusel": true,
+            "seleccionTOP": true,
+            "productos": [
+                {
+                    "id": 1,
+                    "nombre": "Alurin Go Start Intel Celeron N4020/8GB/256GB SSD/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1066/10663368/1710-alurin-go-start-intel-pentium-n4020-8gb-256gb-ssd-156-comprar.jpg",
+                    "url": "https://www.pccomponentes.com/alurin-go-start-intel-celeron-n4020-8gb-256gb-ssd-156",
+                    "descuento": 21,
+                    "precioDescuento": "224,99",
+                    "precioInicial": "284,99",
+                    "puntuacion": "3,9/5",
+                    "opiniones": 507
+                },
+                {
+                    "id": 2,
+                    "nombre": "PcCom Revolt 5050 AMD Ryzen 7 260/16GB/1TB SSD/RTX 5050/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10916698/1142-pccom-revolt-5050-amd-ryzen-7-260-16gb-1tb-ssd-rtx-5050-156-comprar.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-pccom-revolt-5050-amd-ryzen-7-260-16gb-1tb-ssd-rtx-5050-156",
+                    "descuento": 20,
+                    "precioDescuento": "1.089,99",
+                    "precioInicial": "1.374,99",
+                    "puntuacion": "4,8/5",
+                    "opiniones": 2
+                },
+                {
+                    "id": 3,
+                    "nombre": "Lenovo IdeaPad Slim 3 15IRH8 Intel Core i7-13620H/16GB/1TB SSD/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10842875/1833-lenovo-ideapad-slim-3-15irh8-intel-core-i7-13620h-16gb-1tb-ssd-156-review.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh8-intel-core-i7-13620h-16gb-1tb-ssd-156",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "precioInicial": "729",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 700
+                },
+                {
+                    "id": 4,
+                    "nombre": "Samsung Galaxy Book4 15 Intel Core i5-1335U/16GB/512GB SSD/15.6\" + Microsoft 365 12+3 Meses Digital",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10853377/1184-samsung-galaxy-book4-15-np750xgj-kg2es-intel-core-i5-1335u-16gb-512gb-ssd-156-microsoft-365-12-3-meses-digital-cb7df31b-fbd6-436a-9994-e932a50f1e81.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-samsung-galaxy-book4-15-intel-core-i5-1335u-16gb-512gb-ssd-156-microsoft-365-12-3-meses-digital",
+                    "extra": {
+                        "tipo": 1,
+                        "nombre": "Incluye regalo"
+                    },
+                    "descuento": 33,
+                    "precioDescuento": "529",
+                    "precioInicial": "799",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 108
+                },
+                {
+                    "id": 5,
+                    "nombre": "HP OMEN 16-ap0007ns AMD Ryzen AI 7 350 32GB 1TB SSD RTX 5070 8GB 16\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881998/1620-hp-omen-gaming-laptop-16-ap0007ns-350-16-amd-ryzen-9-350-32gb-1tb-ssd-rtx-5070-ia-gaming-black-caracteristicas.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-hp-omen-16-ap0007ns-amd-ryzen-ai-7-350-32gb-1tb-ssd-rtx-5070-8gb-16",
+                    "descuento": 16,
+                    "precioDescuento": "1.339",
+                    "precioInicial": "1.599",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 68
+                },
+                {
+                    "id": 6,
+                    "nombre": "Lenovo IdeaPad Slim 3 15ABR8 AMD Ryzen 5 5625U/16GB/512GB SSD/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10873454/1385-lenovo-ideapad-slim-3-15abr8-amd-ryzen-5-5625u-16gb-512gb-ssd-156-eb31fd3e-e438-40a9-bec3-df7a61d64c3e.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15abr8-amd-ryzen-5-5625u-16gb-512gb-ssd-156",
+                    "precioInicial": "418,99",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 57
+                },
+                {
+                    "id": 7,
+                    "nombre": "HP Victus Gaming 15-fa2005ns 15.6\" Intel Core 7 240H 16GB 1TB SSD RTX 5060 8GB Azul",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881993/1511-hp-victus-gaming-15-fa2005ns-156-intel-core-7-240h-16gb-1tb-ssd-rtx-5060-8gb-azul.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-hp-victus-gaming-15-fa2005ns-156-intel-core-7-240h-16gb-1tb-ssd-rtx-5060-8gb-azul",
+                    "descuento": 25,
+                    "precioDescuento": "1.049",
+                    "precioInicial": "1.399",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 463
+                },
+                {
+                    "id": 8,
+                    "nombre": "MSI Cyborg 15 B2RWFKG-201XES Intel Core 7 240H 32GB DDR5 1TB SSD RTX 5060 15.6\" FHD RGB",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10893728/1703-msi-cyborg-15-b2rwfkg-201xes-intel-core-7-240h-32gb-ddr5-1tb-ssd-rtx-5060-156-fhd-rgb-caracteristicas.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-msi-cyborg-15-b2rwfkg-201xes-intel-core-7-240h-32gb-ddr5-1tb-ssd-rtx-5060-156-fhd-rgb",
+                    "descuento": 7,
+                    "precioDescuento": "1.299",
+                    "precioInicial": "1.399",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 1126
+                },
+                {
+                    "id": 9,
+                    "nombre": "MSI Thin 15 B12UC-1839XES Intel Core i7-12650H/16GB/1TB SSD/RTX 3050/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10846498/1331-msi-thin-15-b12uc-1839xes-intel-core-i7-12650h-16gb-1tb-ssd-rtx-3050-156.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-msi-thin-15-b12uc-1839xes-intel-core-i7-12650h-16gb-1tb-ssd-rtx-3050-156?refurbished",
+                    "extra": {
+                        "tipo": 3,
+                        "nombre": "Reacondicionado"
+                    },
+                    "precioInicial": "782,12",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 860
+                },
+                {
+                    "id": 10,
+                    "nombre": "Acer Gaming Nitro V 15 ANV15-41 AMD Ryzen 7 7735HS/16GB/1TB SSD/RTX 4050/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10848917/1695-acer-gaming-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156-6d275ee8-d0b9-4db7-a409-b73a08edb2fe.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-acer-gaming-nitro-v-15-anv15-41-amd-ryzen-7-7735hs-16gb-1tb-ssd-rtx-4050-156?refurbished",
+                    "extra": {
+                        "tipo": 3,
+                        "nombre": "Reacondicionado"
+                    },
+                    "precioInicial": "794,90",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 159
+                },
+                {
+                    "id": 11,
+                    "nombre": "Lenovo IdeaPad Slim 3 15IRH8 Intel Core i5-13420H/16GB/1TB SSD/15.6\" + WIN 11",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10864241/1390-lenovo-ideapad-slim-3-15irh8-intel-core-i5-13420h-16gb-1tb-ssd-156.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-15irh8-intel-core-i5-13420h-16gb-1tb-ssd-156-win-11",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 17,
+                    "precioDescuento": "619",
+                    "precioInicial": "749",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 700
+                },
+                {
+                    "id": 12,
+                    "nombre": "ASUS Vivobook F1504VA-NJ2237 Intel Core i5-1334U/16GB/512GB SSD/15.6\"",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10866783/1487-asus-vivobook-f1504va-nj2237-intel-core-i5-1334u-16gb-512gb-ssd-156-foto.jpg",
+                    "url": "https://www.pccomponentes.com/portatil-asus-vivobook-f1504va-nj2237-intel-core-i5-1334u-16gb-512gb-ssd-156",
+                    "descuento": 33,
+                    "precioDescuento": "399",
+                    "precioInicial": "599",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 101
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Tarjetas gráficas",
+            "carrusel": true,
+            "seleccionTOP": true,
+            "productos": [
+                {
+                    "id": 1,
+                    "nombre": "MSI GeForce RTX 5080 VENTUS 3X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870079/1322-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "extra": {
+                        "tipo": 1,
+                        "nombre": "Incluye regalo"
+                    },
+                    "descuento": 17,
+                    "precioDescuento": "1.099",
+                    "precioInicial": "1.332,63",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 111
+                },
+                {
+                    "id": 2,
+                    "nombre": "MSI GeForce RTX 5070 VENTUS 2X OC 12GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871105/1742-msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5070-ventus-2x-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 22,
+                    "precioDescuento": "574,90",
+                    "precioInicial": "739,95",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 268
+                },
+                {
+                    "id": 3,
+                    "nombre": "MSI GeForce RTX 5060 VENTUS 2X OC 8GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10878143/127-msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ventus-2x-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "precioInicial": "314,90",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 76
+                },
+                {
+                    "id": 4,
+                    "nombre": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10875112/1504-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "descuento": 18,
+                    "precioDescuento": "449,90",
+                    "precioInicial": "549,95",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 143
+                },
+                {
+                    "id": 5,
+                    "nombre": "ASUS DUAL GeForce RTX 5060 Ti OC Edition 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10875561/1780-asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-reflex-2-rtx-ai-dlss4-comprar.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-dual-geforce-rtx-5060-ti-oc-edition-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "precioInicial": "459,90",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 170
+                },
+                {
+                    "id": 6,
+                    "nombre": "ASUS PRIME GeForce RTX 5070 Ti OC 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10868015/1276-asus-geforce-rtx-5070-ti-prime-oc-16gb-gddr7-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-geforce-rtx-5070-ti-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "precioInicial": "994,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 126
+                },
+                {
+                    "id": 7,
+                    "nombre": "MSI GeForce RTX 5070 Ti VENTUS 3X OC 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10868478/1405-msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "precioInicial": "962,89",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 182
+                },
+                {
+                    "id": 8,
+                    "nombre": "ASUS Dual GeForce RTX 5060 OC Edition 8GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10876979/1380-asus-dual-geforce-rtx-5060-8gb-oc-edition-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-dual-geforce-rtx-5060-oc-edition-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "descuento": 12,
+                    "precioDescuento": "309",
+                    "precioInicial": "354,99",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 39
+                },
+                {
+                    "id": 9,
+                    "nombre": "Sapphire PULSE AMD Radeon RX 9070 XT 16GB GDDR6 FSR 4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867461/1906-sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-fsr-4",
+                    "precioInicial": "749,74",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 143
+                },
+                {
+                    "id": 10,
+                    "nombre": "ASUS PRIME GeForce RTX 5060 OC Edition 8GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10877264/1977-asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-geforce-rtx-5060-oc-edition-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "descuento": 9,
+                    "precioDescuento": "337,90",
+                    "precioInicial": "372,99",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 39
+                },
+                {
+                    "id": 11,
+                    "nombre": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10880096/174-gigabyte-geforce-rtx-5060-windforce-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-gigabyte-geforce-rtx-5060-windforce-oc-8gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "descuento": 17,
+                    "precioDescuento": "295,90",
+                    "precioInicial": "359,90",
+                    "puntuacion": "4,2/5",
+                    "opiniones": 33
+                },
+                {
+                    "id": 12,
+                    "nombre": "ASUS PRIME GeForce RTX 5070 OC 12GB GDDR7 Reflex 2 RTX AI DLSS4",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10871880/1793-asus-prime-geforce-rtx-5070-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+                    "url": "https://www.pccomponentes.com/tarjeta-grafica-asus-prime-geforce-rtx-5070-oc-12gb-gddr7-reflex-2-rtx-ai-dlss4",
+                    "descuento": 10,
+                    "precioDescuento": "609,90",
+                    "precioInicial": "679",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 295
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "Móviles",
+            "carrusel": true,
+            "seleccionTOP": true,
+            "productos": [
+                {
+                    "id": 1,
+                    "nombre": "Xiaomi Redmi Note 14 4G 8/256GB Negro Medianoche Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867244/1136-xiaomi-redmi-note-14-4g-8-256gb-negro-medianoche-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-4g-8-256gb-negro-medianoche-libre",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuentoExtra": "-5€ en carrito",
+                    "descuento": 28,
+                    "precioDescuento": "179",
+                    "precioInicial": "249,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 444
+                },
+                {
+                    "id": 2,
+                    "nombre": "Xiaomi Redmi 14C 8/256GB Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858011/1910-xiaomi-redmi-14c-8-256gb-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-14c-8-256gb-negro-libre",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 17,
+                    "precioDescuento": "149",
+                    "precioInicial": "179,99",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 677
+                },
+                {
+                    "id": 3,
+                    "nombre": "Xiaomi Redmi Note 14 4G 6/128GB Negro Medianoche Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867240/1593-xiaomi-redmi-note-14-4g-6-128gb-negro-medianoche-libre-eec84172-24ad-44af-bfee-4fb11e197eb9.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-4g-6-128gb-negro-medianoche-libre",
+                    "descuentoExtra": "-5€ en carrito",
+                    "descuento": 30,
+                    "precioDescuento": "159",
+                    "precioInicial": "229,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 444
+                },
+                {
+                    "id": 4,
+                    "nombre": "Apple iPhone 16 Pro Max 256GB Titanio Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855067/1335-apple-iphone-16-pro-max-256gb-titanio-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/apple-iphone-16-pro-max-256gb-titanio-negro-libre",
+                    "descuento": 10,
+                    "precioDescuento": "1.309",
+                    "precioInicial": "1.469",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 642
+                },
+                {
+                    "id": 5,
+                    "nombre": "Xiaomi Redmi Note 14 4G 8/256GB Negro Medianoche Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867244/1136-xiaomi-redmi-note-14-4g-8-256gb-negro-medianoche-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-4g-8-256gb-negro-medianoche-libre",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuentoExtra": "-5€ en carrito",
+                    "descuento": 28,
+                    "precioDescuento": "179",
+                    "precioInicial": "249,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 444
+                },
+                {
+                    "id": 6,
+                    "nombre": "Xiaomi Redmi 14C 8/256GB Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10858011/1910-xiaomi-redmi-14c-8-256gb-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-14c-8-256gb-negro-libre",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 17,
+                    "precioDescuento": "149",
+                    "precioInicial": "179,99",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 677
+                },
+                {
+                    "id": 7,
+                    "nombre": "Xiaomi Redmi Note 14 4G 6/128GB Negro Medianoche Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867240/1593-xiaomi-redmi-note-14-4g-6-128gb-negro-medianoche-libre-eec84172-24ad-44af-bfee-4fb11e197eb9.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-4g-6-128gb-negro-medianoche-libre",
+                    "descuentoExtra": "-5€ en carrito",
+                    "descuento": 30,
+                    "precioDescuento": "159",
+                    "precioInicial": "229,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 444
+                },
+                {
+                    "id": 8,
+                    "nombre": "Apple iPhone 16 Pro Max 256GB Titanio Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855067/1335-apple-iphone-16-pro-max-256gb-titanio-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/apple-iphone-16-pro-max-256gb-titanio-negro-libre",
+                    "descuento": 10,
+                    "precioDescuento": "1.309",
+                    "precioInicial": "1.469",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 642
+                },
+                {
+                    "id": 9,
+                    "nombre": "Xiaomi Redmi Note 14 Pro 5G 8/256GB Negro Medianoche Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10867255/1210-xiaomi-redmi-note-14-pro-5g-8-256gb-negro-medianoche-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-note-14-pro-5g-8-256gb-negro-medianoche-libre",
+                    "descuento": 17,
+                    "descuentoExtra": "-5€ en carrito",
+                    "precioDescuento": "329",
+                    "precioInicial": "399,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 613
+                },
+                {
+                    "id": 10,
+                    "nombre": "Xiaomi Redmi 14C 4/128GB Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10857672/1389-xiaomi-redmi-14c-4-128gb-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-redmi-14c-4-128gb-negro-libre",
+                    "descuento": 33,
+                    "precioDescuento": "99",
+                    "precioInicial": "149,99",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 677
+                },
+                {
+                    "id": 11,
+                    "nombre": "Samsung Galaxy A16 LTE 8/256GB Negro Libre",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10860712/1850-samsung-galaxy-a16-lte-8-256gb-negro-libre.jpg",
+                    "url": "https://www.pccomponentes.com/samsung-galaxy-a16-lte-8-256gb-negro-libre",
+                    "descuento": 44,
+                    "precioDescuento": "199,99",
+                    "precioInicial": "359,90",
+                    "puntuacion": "4,3/5",
+                    "opiniones": 363
+                },
+                {
+                    "id": 12,
+                    "nombre": "Apple iPhone 16 128GB Blanco",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10855022/133-apple-iphone-16-128gb-blanco-caracteristicas.jpg",
+                    "url": "https://www.pccomponentes.com/apple-iphone-16-128gb-blanco",
+                    "descuento": 15,
+                    "precioDescuento": "809",
+                    "precioInicial": "959",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 509
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Televisores",
+            "carrusel": true,
+            "seleccionTOP": true,
+            "productos": [
+                {
+                    "id": 1,
+                    "nombre": "Nilait Prisma 32HC7002S 32\" LED HD Ready Frameless Smart TV",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10817722/1609-nilait-prisma-32hc7002s-32-led-hd-ready-frameless-smart-tv-comprar.jpg",
+                    "url": "https://www.pccomponentes.com/nilait-prisma-32hc7002s-32-led-hd-ready-frameless-smart-tv",
+                    "extra": {
+                        "tipo": 1,
+                        "nombre": "Incluye regalo"
+                    },
+                    "descuento": 19,
+                    "precioDescuento": "164",
+                    "precioInicial": "204,01",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 1104
+                },
+                {
+                    "id": 2,
+                    "nombre": "TCL LED 55\" 55P6K UltraHD 4K Dolby Audio HDR10 Google TV",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10879259/1487-tcl-led-55-55p6k-ultrahd-4k-dolby-audio-hdr10-google-tv.jpg",
+                    "url": "https://www.pccomponentes.com/tcl-led-55-55p6k-ultrahd-4k-dolby-audio-hdr10-google-tv",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 34,
+                    "precioDescuento": "299",
+                    "precioInicial": "459",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 72
+                },
+                {
+                    "id": 3,
+                    "nombre": "Samsung Q7F QE55Q7FAAU QLED 55\" 4K Ultra HD Smart TV WiFi AirPlay Negra",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10928301/1655-samsung-q7f-qe55q7faau-qled-55-4k-ultra-hd-smart-tv-wifi-airplay-negra.jpg",
+                    "url": "https://www.pccomponentes.com/samsung-q7f-qe55q7faau-qled-55-4k-ultra-hd-smart-tv-wifi-airplay-negra",
+                    "descuento": 37,
+                    "precioDescuento": "439",
+                    "precioInicial": "699",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 37
+                },
+                {
+                    "id": 4,
+                    "nombre": "TV Philips LED 55PUS7000 55\" 4K Ultra HD Smart TV HDR10+ Dolby Atmos WiFi Bluetooth",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10910888/138-tv-philips-led-55pus7000-55-4k-ultra-hd-smart-tv-hdr10-dolby-atmos-wifi-bluetooth.jpg",
+                    "url": "https://www.pccomponentes.com/tv-philips-led-55pus7000-55-4k-ultra-hd-smart-tv-hdr10-dolby-atmos-wifi-bluetooth",
+                    "descuento": 46,
+                    "precioDescuento": "319,99",
+                    "precioInicial": "599",
+                    "puntuacion": "4,2/5",
+                    "opiniones": 18
+                },
+                {
+                    "id": 5,
+                    "nombre": "Samsung UE50DU7172UXXH 50\" LED UltraHD 4K HDR10+",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10844425/1263-samsung-ue50du7172uxxh-50-led-ultrahd-4k-hdr10.jpg",
+                    "url": "https://www.pccomponentes.com/tv-samsung-ue50du7172uxxh-50-led-ultrahd-4k-hdr10",
+                    "descuento": 52,
+                    "precioDescuento": "319,99",
+                    "precioInicial": "669",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 160
+                },
+                {
+                    "id": 6,
+                    "nombre": "Samsung TQ65S92DAT OLED 65\" 4K Ultra HD Smart TV HDR10+ WiFi Plata",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1093/10932307/1882-samsung-tq65s92dat-oled-65-4k-ultra-hd-smart-tv-hdr10-wifi-plata.jpg",
+                    "url": "https://www.pccomponentes.com/samsung-tq65s92dat-oled-65-4k-ultra-hd-smart-tv-hdr10-wifi-plata?refurbished",
+                    "extra": {
+                        "tipo": 3,
+                        "nombre": "Reacondicionado"
+                    },
+                    "precioInicial": "1.066,30",
+                    "puntuacion": "4,9/5",
+                    "opiniones": 2134
+                },
+                {
+                    "id": 7,
+                    "nombre": "Samsung Q7F QE65Q7FAAU 65\" QLED 4K Ultra HD Smart TV WiFi Negro",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10928302/1151-samsung-q7f-qe65q7faau-65-qled-4k-ultra-hd-smart-tv-wifi-negro.jpg",
+                    "url": "https://www.pccomponentes.com/samsung-q7f-qe65q7faau-65-qled-4k-ultra-hd-smart-tv-wifi-negro",
+                    "descuento": 27,
+                    "precioDescuento": "579",
+                    "precioInicial": "799",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 37
+                },
+                {
+                    "id": 8,
+                    "nombre": "Samsung Q7F QE50Q7FAAU 50\" QLED 4K Ultra HD Smart TV WiFi Negro",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10928300/1662-samsung-q7f-qe50q7faau-50-qled-4k-ultra-hd-smart-tv-wifi-negro.jpg",
+                    "url": "https://www.pccomponentes.com/samsung-q7f-qe50q7faau-50-qled-4k-ultra-hd-smart-tv-wifi-negro",
+                    "descuento": 36,
+                    "precioDescuento": "379",
+                    "precioInicial": "599",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 37
+                },
+                {
+                    "id": 9,
+                    "nombre": "Toshiba 40LV3563DG 40\" LED Full HD  HDMI USB Altavoces Integrados Negro VIDAA",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1093/10932028/110-toshiba-40lv3563dg-40-led-full-hd-hdmi-usb-altavoces-integrados-negro-vidaa-especificaciones.jpg",
+                    "url": "https://www.pccomponentes.com/tv-toshiba-40lv3563dg-40-led-full-hd-hdmi-usb-altavoces-integrados-negro-vidaa",
+                    "descuento": 44,
+                    "precioDescuento": "199",
+                    "precioInicial": "359,90",
+                    "puntuacion": "4,7/5",
+                    "opiniones": 17
+                },
+                {
+                    "id": 10,
+                    "nombre": "Samsung Crystal UHD LED 65\" UE65U8072FUXXH UltraHD 4K HDR Tizen",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10899986/1552-samsung-crystal-uhd-led-65-ue65u8072fuxxh-ultrahd-4k-hdr-tizen.jpg",
+                    "url": "https://www.pccomponentes.com/tv-samsung-crystal-uhd-led-65-ue65u8072fuxxh-ultrahd-4k-hdr-tizen",
+                    "descuento": 28,
+                    "precioDescuento": "499",
+                    "precioInicial": "699",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 26
+                },
+                {
+                    "id": 11,
+                    "nombre": "Xiaomi A 2025 32\" LED HD Dolby Atmos Google TV",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1082/10822184/1258-xiaomi-a-2025-32-led-hd-dolby-atmos-google-tv.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-a-2025-32-led-hd-dolby-atmos-google-tv",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 11,
+                    "precioDescuento": "149",
+                    "precioInicial": "169",
+                    "puntuacion": "4,4/5",
+                    "opiniones": 492
+                },
+                {
+                    "id": 12,
+                    "nombre": "Televisor Samsung Q7F QE43Q7FAAU 43\" QLED 4K Ultra HD Smart TV WiFi Negro",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1091/10917365/1597-televisor-samsung-q7f-qe43q7faau-43-qled-4k-ultra-hd-smart-tv-wifi-negro.jpg",
+                    "url": "https://www.pccomponentes.com/televisor-samsung-q7f-qe43q7faau-43-qled-4k-ultra-hd-smart-tv-wifi-negro",
+                    "descuento": 36,
+                    "precioDescuento": "319",
+                    "precioInicial": "499",
+                    "puntuacion": "4,3/5",
+                    "opiniones": 30
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "Ventilación y clima",
+            "carrusel": true,
+            "seleccionTOP": true,
+            "productos": [
+                {
+                    "id": 1,
+                    "nombre": "Xiaomi Smart Standing Fan 2 Pro Ventilador de Pie WiFi 24W Blanco",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1056/10562146/1746-xiaomi-smart-standing-fan-2-pro-ventilador-de-pie-wifi-24w-blanco.jpg",
+                    "url": "https://www.pccomponentes.com/xiaomi-smart-standing-fan-2-pro-ventilador-de-pie-wifi-24w-blanco",
+                    "descuento": 9,
+                    "precioDescuento": "127,02",
+                    "precioInicial": "139,99",
+                    "puntuacion": "4,6/5",
+                    "opiniones": 292
+                },
+                {
+                    "id": 2,
+                    "nombre": "Origial AIRBLISS CEILING RETRACTABLE 25WIN Ventilador de Techo con Aspas Retráctiles 25W Inox",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10865615/1284-origial-airbliss-ceiling-retractable-25win-ventilador-de-techo-con-aspas-retractiles-25w-inox.jpg",
+                    "url": "https://www.pccomponentes.com/origial-airbliss-ceiling-retractable-25win-ventilador-de-techo-con-aspas-retractiles-25w-inox",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 23,
+                    "precioDescuento": "64,99",
+                    "precioInicial": "84,99",
+                    "puntuacion": "4,5/5",
+                    "opiniones": 73
+                },
+                {
+                    "id": 3,
+                    "nombre": "Hisense KC35lr03 Aire acondicionado Split 1x1 Con Bomba De Calor Inverter Wifi 2.765 frigorías",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/1089/10899314/1756-hisense-kc35lr03-aire-acondicionado-split-1x1-con-bomba-de-calor-inverter-wifi-2765-frigorias.jpg",
+                    "url": "https://www.pccomponentes.com/hisense-kc35lr03-aire-acondicionado-split-1x1-con-bomba-de-calor-inverter-wifi-2765-frigorias",
+                    "descuento": 41,
+                    "precioDescuento": "378,99",
+                    "precioInicial": "649",
+                    "puntuacion": "4,1/5",
+                    "opiniones": 6
+                },
+                {
+                    "id": 4,
+                    "nombre": "Orbegozo TWM 1009 Ventilador de Torre Iónico",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/12/125082/155-orbegozo-twm-1009-ventilador-de-torre-ionico-comprar.jpg",
+                    "url": "https://www.pccomponentes.com/orbegozo-twm-1009-ventilador-de-torre-ionico",
+                    "descuento": 29,
+                    "precioDescuento": "69,90",
+                    "precioInicial": "99",
+                    "puntuacion": "4,3/5",
+                    "opiniones": 261
+                },
+                {
+                    "id": 5,
+                    "nombre": "Orbegozo AIR 46  Climatizador Evaporativo 3 en 1 55W",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/13/132208/1105-orbegozo-air-46-climatizador-evaporativo-3-en-1-55w.jpg",
+                    "url": "https://www.pccomponentes.com/orbegozo-air-46-climatizador-evaporativo-3-en-1-55w",
+                    "extra": {
+                        "tipo": 2,
+                        "nombre": "Trending"
+                    },
+                    "descuento": 17,
+                    "precioDescuento": "91,98",
+                    "precioInicial": "112",
+                    "puntuacion": "4,1/5",
+                    "opiniones": 55
+                },
+                {
+                    "id": 6,
+                    "nombre": "Universal Blue Mistral 3042 Ventilador de Techo con Luz y Mando 60W Blanco",
+                    "img": "https://thumb.pccomponentes.com/w-150-150/articles/42/423389/1743-universal-blue-siroco-ventilador-de-techo-con-luz-y-mando-60w-blanco.jpg",
+                    "url": "https://www.pccomponentes.com/universal-blue-mistral-3042-ventilador-de-techo-con-luz-y-mando-60w-blanco",
+                    "descuento": 22,
+                    "precioDescuento": "60,98",
+                    "precioInicial": "78,99",
+                    "puntuacion": "4,3/5",
+                    "opiniones": 123
+                }
+            ]
+        }
+    ]
+}

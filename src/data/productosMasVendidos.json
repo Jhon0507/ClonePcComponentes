@@ -1,0 +1,168 @@
+{
+    "carrusel": false,
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Forgeon Nimbus PRO Disco SSD 1TB 7400MB/S NVMe PCIe 4.0 M.2 Gen4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10845355/1144-forgeon-nimbus-pro-ssd-m2-1tb-nvme-pcie-40-gen4-comprar.jpg",
+            "url": "https://www.pccomponentes.com/disco-duro-forgeon-nimbus-pro-disco-ssd-1tb-7400mb-s-nvme-pcie-40-m2-gen4",
+            "descuento": 30,
+            "precioDescuento": "69,95",
+            "precioInicial": "99,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 385,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 2,
+            "nombre": "Forgeon Nimbus PRO Disco SSD 2TB 7400MB/S NVMe PCIe 4.0 M.2 Gen4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10845356/1587-forgeon-nimbus-pro-ssd-m2-2tb-nvme-pcie-40-gen4-7400.jpg",
+            "url": "https://www.pccomponentes.com/disco-duro-forgeon-nimbus-pro-disco-ssd-2tb-7400mb-s-nvme-pcie-40-m2-gen4",
+            "descuento": 27,
+            "precioDescuento": "123,95",
+            "precioInicial": "169,90",
+            "puntuacion": "4,7/5",
+            "opiniones": 385,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 3,
+            "nombre": "Kioxia Exceria Plus G3 1TB Disco SSD 5000MB/S NVMe PCIe 4.0 M.2 Gen4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10790120/1235-kioxia-exceria-plus-g3-1tb-ssd-m2-2280-pcie-gen4-x4.jpg",
+            "url": "https://www.pccomponentes.com/disco-duro-kioxia-exceria-plus-g3-1tb-disco-ssd-5000mb-s-nvme-pcie-40-m2-gen4",
+            "descuento": 14,
+            "precioDescuento": "59,95",
+            "precioInicial": "69,95",
+            "puntuacion": "4,7/5",
+            "opiniones": 1817,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 4,
+            "nombre": "Lenovo IdeaPad Slim 3 Gen 8 15IRH8 Intel Core i5-13420H/16GB/1TB SSD/15.6\"",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10847189/1366-lenovo-ideapad-slim-3-gen-8-15irh8-intel-core-i5-13420h-16gb-1tb-ssd-156.jpg",
+            "url": "https://www.pccomponentes.com/portatil-lenovo-ideapad-slim-3-gen-8-15irh8-intel-core-i5-13420h-16gb-1tb-ssd-156",
+            "descuento": 20,
+            "precioDescuento": "519,01",
+            "precioInicial": "659",
+            "puntuacion": "4,6/5",
+            "opiniones": 349,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros":"Otras opciones disponibles"
+        },
+        {
+            "id": 5,
+            "nombre": "MSI GeForce RTX 5080 VENTUS 3X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870079/1322-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+            "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+            "extra": {
+                "tipo": 1,
+                "nombre": "Incluye regalo"
+            },
+            "descuento": 17,
+            "precioDescuento": "1.099",
+            "precioInicial": "1.332,63",
+            "puntuacion": "4,7/5",
+            "opiniones": 111,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "colores": ["bg-white", "bg-gray-400"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 6,
+            "nombre": "MSI PRO MP251 24.5\" IPS FullHD 100Hz",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10791690/1229-msi-pro-mp251-245-led-ips-fullhd-100hz.jpg",
+            "url": "https://www.pccomponentes.com/monitor-msi-pro-mp251-245-ips-fullhd-100hz",
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            },
+            "descuento": 38,
+            "precioDescuento": "79",
+            "precioInicial": "129",
+            "puntuacion": "4,7/5",
+            "opiniones": 525,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 7,
+            "nombre": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10875112/1504-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+            "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5060-ti-ventus-2x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+            "descuento": 18,
+            "precioDescuento": "449,90",
+            "precioInicial": "549,95",
+            "puntuacion": "4,7/5",
+            "opiniones": 143,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "colores": ["bg-white", "bg-black", "bg-gray-400"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 8,
+            "nombre": "Samsung S24D302GAU 24\" LED IPS FullHD 100Hz",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1085/10856495/1209-samsung-s24d302gau-24-led-ips-fullhd-100hz-9d4f4460-a40e-4854-ad45-002ec93fc8ca.jpg",
+            "url": "https://www.pccomponentes.com/monitor-samsung-s24d302gau-24-led-ips-fullhd-100hz",
+            "descuento": 26,
+            "precioDescuento": "79,99",
+            "precioInicial": "109",
+            "puntuacion": "4,6/5",
+            "opiniones": 899,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros": "Otras opciones disponibles"
+        },
+        {
+            "id": 9,
+            "nombre": "HP 15-FD0022NS Intel Core i7-1355U/16GB/1TB SSD/15.6\" + WIN 11",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1079/10798380/1213-hp-15-fd0022ns-intel-core-i7-1355u-16gb-1tb-ssd-156-4be685e4-4c4c-4e8b-af3f-ac749fca443c.jpg",
+            "url": "https://www.pccomponentes.com/portatil-hp-15-fd0022ns-intel-core-i7-1355u-16gb-1tb-ssd-156-win-11",
+            "descuento": 27,
+            "precioDescuento": "649",
+            "precioInicial": "899",
+            "puntuacion": "4,6/5",
+            "opiniones": 169,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"],
+            "otros":"Otras opciones disponibles"
+        },
+        {
+            "id": 10,
+            "nombre": "Intel Core i5-12400 2.5 GHz",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834921/145-intel-core-i5-12400-44-ghz.jpg",
+            "url": "https://www.pccomponentes.com/intel-core-i5-12400-25-ghz",
+            "descuento": 10,
+            "precioDescuento": "178,37",
+            "precioInicial": "199,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 275,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 24 de septiembre", "HomeIcon"]
+        },
+        {
+            "id": 11,
+            "nombre": "HP Victus Gaming 15-fb3706ns 15.6\" AMD Ryzen 5 8645HS 16GB 512GB SSD RTX 3050",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10881988/1531-hp-victus-gaming-15-fb3706ns-156-amd-ryzen-5-8645hs-16gb-512gb-ssd-rtx-3050-caracteristicas.jpg",
+            "url": "https://www.pccomponentes.com/portatil-hp-victus-gaming-15-fb3706ns-156-amd-ryzen-5-8645hs-16gb-512gb-ssd-rtx-3050",
+            "descuento": 18,
+            "precioDescuento": "649",
+            "precioInicial": "799",
+            "puntuacion": "4,6/5",
+            "opiniones": 11,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"]
+        },
+        {
+            "id": 12,
+            "nombre": "Samsung S90D TQ83S90DAEXXC 83\" OLED UltraHD 4K HDR10+",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10863199/1449-samsung-s90d-tq83s90daexxc-83-oled-ultrahd-4k-hdr10.jpg",
+            "url": "https://www.pccomponentes.com/tv-samsung-s90d-tq83s90daexxc-83-oled-ultrahd-4k-hdr10",
+            "descuento": 60,
+            "precioDescuento": "1.999",
+            "precioInicial": "5.099",
+            "puntuacion": "4,9/5",
+            "opiniones": 18,
+            "envio": ["Envío gratis.", " Recíbelo el lunes, 22 de septiembre"]
+        }
+    ]
+}

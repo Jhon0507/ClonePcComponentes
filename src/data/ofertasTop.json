@@ -1,0 +1,181 @@
+{
+    "carrusel": true,
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "MSI Modern 15 B7M-243XES AMD Ryzen 7 7730U/16GB/512GB SSD/15.6",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1074/10741661/1707-msi-modern-15-b7m-243xes-amd-ryzen-7-7730u-16gb-512gb-ssd-156.jpg",
+            "url": "https://www.pccomponentes.com/msi-modern-15-b7m-243xes-amd-ryzen-7-7730u-16gb-512gb-ssd-156",
+            "descuento": 46,
+            "precioDescuento": "479",
+            "precioInicial": "899",
+            "puntuacion": "4,5/5",
+            "opiniones": 674,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 2,
+            "nombre": "MSI GeForce RTX 5080 VENTUS 3X OC PLUS 16GB GDDR7 Reflex 2 RTX AI DLSS4",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870079/1322-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4.jpg",
+            "url": "https://www.pccomponentes.com/tarjeta-grafica-msi-geforce-rtx-5080-ventus-3x-oc-plus-16gb-gddr7-reflex-2-rtx-ai-dlss4",
+            "descuento": 17,
+            "precioDescuento": "1.099",
+            "precioInicial": "1.332,63",
+            "puntuacion": "4,7/5",
+            "opiniones": 108,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 1,
+                "nombre": "Incluye regalo"
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "PcCom Ready AMD Ryzen 7 5800X / 32GB / 1TB SSD / RTX 5060 + Windows 11 Home",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1088/10880191/1619-pccom-ready-amd-ryzen-7-5800x-32gb-1tb-ssd-rtx-5060-windows-11-home.jpg",
+            "url": "https://www.pccomponentes.com/ordenador-sobremesa-pccom-ready-amd-ryzen-7-5800x-32gb-1tb-ssd-rtx-5060-windows-11-home",
+            "descuento": 25,
+            "precioDescuento": "1.159",
+            "precioInicial": "1.559",
+            "puntuacion": "4,7/5",
+            "opiniones": 1936,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 4,
+            "nombre": "Intel Core i5-12400 2.5 GHz",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/83/834921/145-intel-core-i5-12400-44-ghz.jpg",
+            "url": "https://www.pccomponentes.com/intel-core-i5-12400-25-ghz",
+            "descuento": 28,
+            "precioDescuento": "143,99",
+            "precioInicial": "199,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 274,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        },
+        {
+            "id": 5,
+            "nombre": "Samsung UE55U8072FUXXH 55\" LED 4K UHD Tizen Smart TV Wi-Fi Mega Contrast Negro",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1092/10928306/1555-samsung-ue55u8072fuxxh-55-led-4k-uhd-tizen-smart-tv-wi-fi-mega-contrast-negro.jpg",
+            "url": "https://www.pccomponentes.com/samsung-ue55u8072fuxxh-55-led-4k-uhd-tizen-smart-tv-wi-fi-mega-contrast-negro",
+            "descuento": 40,
+            "precioDescuento": "359",
+            "precioInicial": "599",
+            "puntuacion": "4,4/5",
+            "opiniones": 26,
+            "envio": ["Envío gratis.", " Recíbelo a partir del viernes, 19 de septiembre"]
+        },
+        {
+            "id": 6,
+            "nombre": "Xiaomi Redmi Pad SE 11\" 8/256GB Gris Grafito",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1081/10811535/1180-xiaomi-redmi-pad-se-11-8-256gb-gris-grafito.jpg",
+            "url": "https://www.pccomponentes.com/xiaomi-redmi-pad-se-11-8-256gb-gris-grafito",
+            "descuento": 28,
+            "precioDescuento": "179",
+            "precioInicial": "249,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 1144,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 7,
+            "nombre": "Corsair Vengeance DDR5 6000MHz 32GB 2x16GB CL30 Memoria Dual AMD EXPO e Intel XMP",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1076/10764411/1517-corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30.jpg",
+            "url": "https://www.pccomponentes.com/corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl30-memoria-dual-amd-expo-e-intel-xmp",
+            "descuento": 11,
+            "precioDescuento": "124",
+            "precioInicial": "139,99",
+            "puntuacion": "4,7/5",
+            "opiniones": 1292,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 8,
+            "nombre": "Logitech G435 LIGHTSPEED Auriculares Gaming Inalámbricos Negros",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/57/577538/1197-logitech-g435-lightspeed-auriculares-gaming-inalambricos-negros.jpg",
+            "url": "https://www.pccomponentes.com/logitech-g435-lightspeed-auriculares-gaming-inalambricos-negros",
+            "descuento": 47,
+            "precioDescuento": "44,99",
+            "precioInicial": "84,99",
+            "puntuacion": "4,5/5",
+            "opiniones": 4040,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 9,
+            "nombre": "Apple Mac mini Apple M4 10 Núcleos/16GB/256GB SSD/GPU 10 Núcleos",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1086/10861448/1214-apple-mac-mini-apple-m4-10-nucleos-16gb-256gb-ssd-gpu-10-nucleos.jpg",
+            "url": "https://www.pccomponentes.com/apple-mac-mini-apple-m4-10-nucleos-16gb-256gb-ssd-gpu-10-nucleos",
+            "descuento": 11,
+            "precioDescuento": "639",
+            "precioInicial": "719",
+            "puntuacion": "4,8/5",
+            "opiniones": 143,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 10,
+            "nombre": "AOC C27G4ZXE 27\" LED Fast VA FullHD 280Hz 1ms Curva",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1084/10847587/1875-aoc-c27g4zxe-27-led-fast-va-fullhd-280hz-1ms-curva.jpg",
+            "url": "https://www.pccomponentes.com/monitor-aoc-c27g4zxe-27-led-fast-va-fullhd-280hz-1ms-curva",
+            "descuento": 35,
+            "precioDescuento": "129",
+            "precioInicial": "199,90",
+            "puntuacion": "4,6/5",
+            "opiniones": 6000,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 11,
+            "nombre": "Smartgyro Rockway Evo Patinete Eléctrico 800W 50km 13000mAh con Doble Suspension y App",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10870657/1767-smartgyro-rockway-evo-patinete-electrico-800w-50km-13000mah-con-doble-suspension-y-app-comprar.jpg",
+            "url": "https://www.pccomponentes.com/smartgyro-rockway-evo-patinete-electrico-800w-50km-13000mah-con-doble-suspension-y-app",
+            "descuento": 14,
+            "precioDescuento": "599",
+            "precioInicial": "699",
+            "puntuacion": "4,3/5",
+            "opiniones": 25,
+            "envio": ["Envío gratis.", " Recíbelo mañana"],
+            "extra": {
+                "tipo": 2,
+                "nombre": "Trending"
+            }
+        },
+        {
+            "id": 12,
+            "nombre": "iRobot Roomba Plus 505 Combo Robot Aspirador con Base AutoWash Multifunción y Autolimpiable Negro",
+            "img": "https://thumb.pccomponentes.com/w-150-150/articles/1087/10873764/1652-irobot-roomba-plus-505-combo-robot-aspirador-con-base-autowash-multifuncion-y-autolimpiable-negro-856919d3-0d35-447e-884b-2f42b830d77a.jpg",
+            "url": "https://www.pccomponentes.com/irobot-roomba-plus-505-combo-robot-aspirador-con-base-autowash-multifuncion-y-autolimpiable-negro",
+            "descuento": 33,
+            "precioDescuento": "529",
+            "precioInicial": "799",
+            "puntuacion": "4,7/5",
+            "opiniones": 13,
+            "envio": ["Envío gratis.", " Recíbelo mañana"]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@theme {
+    --color-text-font: rgb(51,51,51);
+    --color-hover-container: rgb(242, 242, 242);
+    --color-white-gray: rgb(204, 204, 204);
+    --color-gris-1: #6E6E6E;
+    --color-pccom1: #FF6000;
+    --color-pccom2: #FFA90D;
+    --color-gris-claro: #c2c3c5;
+    --color-naranja-chat: #FFEADE;
+    --color-naranja-oscuro: #CC4D00;
+    --color-rojo-ofertas: #BF0019;
+    --color-verde-1: #118000;
+
+    --text-size-17: 1.0625rem;
+
+    --font-open-sans: "Open Sans", sans-serif;
+
+    --breakpoint-desktop: 81.25rem;
+    --breakpoint-laptop: 75rem;
+    --breakpoint-tablet: 62rem;
+    --breakpoint-mobile: 32rem;
+    --breakpoint-minimobile: 29rem;
+
+    --spacing-nav-left-x: 25rem; 
+    --spacing-subcategoria: 27.5rem;
+    --spacing-76: 18.25rem;
+    --spacing-4-5: 1.1875rem;
+    --spacing-125: 31.25rem;
+    --spacing-90: 22.5rem;
+    --spacing-160: 40rem;
+}
