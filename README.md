@@ -9,11 +9,9 @@ Este es un proyecto con fines educativos y de portafolio, no tiene ninguna funci
 
 ## 🚀 Demo en Vivo
 
-**[Enlace a tu proyecto en Vercel aquí]**
+**https://clone-pc-componentes-jrg7roe6h-jhons-projects-ab3b91d2.vercel.app**
 
 ## 📸 Capturas de Pantalla
-
-*(Añade aquí tus capturas de pantalla. Súbelas a tu repositorio y enlaza a ellas)*
 
 | Móvil | Escritorio |
 | :---: | :---: |
